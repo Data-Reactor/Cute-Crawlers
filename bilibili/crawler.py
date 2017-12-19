@@ -3,8 +3,9 @@ import json
 import os
 
 print("Set the following conditions. Program breaks if one of them is reached.")
-valid_expected = eval(input("Number of info you expect(integer): "))
-max_current_uid = eval(input("Max UserID you expect(integer): "))
+valid_expected = eval(input("Number of invalid info you expect(integer): "))
+max_current_uid = eval(input("Max UserID to crawler(integer): "))
+current_uid = eval(input("Start from a UID(integer): "))
 
 files = os.listdir(os.getcwd())
 if "error" in files:
@@ -15,7 +16,6 @@ if "result" in files:
 header = {"user-agent":"Chrome/10"}
 valid = 0
 invalid = 0 # total number of videos and Bangumi is less than 10
-current_uid = 1
 f = open("result","a")
 e = open("error", "a")
 f.write("[{}")
