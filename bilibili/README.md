@@ -69,7 +69,7 @@
 	- Header: `{"Content-Type": "application/x-www-form-urlencoded
 ", "Referer": "Referer: https://space.bilibili.com/5551
 "}`
-	- Body: "mid=5551&csrf=null"
+	- Body: `mid=5551&csrf=null`
 - 订阅视频: `GET http://space.bilibili.com/ajax/Bangumi/getList?mid=5551`
 - 番剧标签: `GET http://bangumi.bilibili.com/jsonp/seasoninfo/6446.ver?callback=seasonListCallback`
 
