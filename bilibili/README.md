@@ -7,10 +7,12 @@
 - 收藏、作品、订阅信息只爬取了第一页。
 
 
-## 环境
+## 运行环境
 - Ubuntu 16.04
 - Python 3.*
 - 实际上开发的时候在anaconda3的docker里面跑的。
+- Run: `python3 crawler.py` or `python crawler.py`
+  - 输入期望爬取的有效数据量、最大爬取的用户量（有效和无效的总量）、开始爬取的用户UID
 
 
 ## 数据导出
