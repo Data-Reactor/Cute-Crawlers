@@ -2,18 +2,24 @@ import requests
 import json
 import os
 
+print("Set the following conditions. Program breaks if one of them is reached.")
+valid_expected = eval(input("Number of info you expect(integer): "))
+max_current_uid = eval(input("Max UserID you expect(integer): "))
 
 files = os.listdir(os.getcwd())
 if "error" in files:
     os.remove("error")
 if "result" in files:
     os.remove("result")
+
 header = {"user-agent":"Chrome/10"}
 valid = 0
 invalid = 0 # total number of videos and Bangumi is less than 10
 current_uid = 1
 f = open("result","a")
 e = open("error", "a")
+f.write("[{}")
+
 true = "true"
 false = "false"
 null = []
@@ -25,6 +31,7 @@ def resolve_coding(data):
     except:
         text = ""
     return text
+
 
 def get_info(user_id):
     global header
@@ -40,7 +47,7 @@ def get_info(user_id):
         return {}
     if text["status"] == "false":
         return {}
-    # return text["data"]
+
     text = text["data"]
     info = {}
     info["mid"] = text["mid"]
@@ -65,7 +72,7 @@ def get_video_info(video):
     except:
         e.write("Timeout: get_video_info({})\r\n".format(video["aid"]))
         return video_info
-    # video_info["tags"] = text["data"]
+
     video_info["tags"] = []
     for tag in text["data"]:
         video_info["tags"].append(tag["tag_name"])
@@ -224,23 +231,32 @@ def crawler_user(user_id):
     push_data(user_info, videos_info, bangumis_info, favorite_info)
 
 
-
-# while valid < 100000:
-while valid < 1000:
+while valid < valid_expected:
     print("Crawling user {}...".format(current_uid))
     crawler_user(current_uid)
     print("Crawl done: user {}".format(current_uid))
     current_uid += 1
     if current_uid % 100 == 0:
+        f.write("]")
         f.close()
         e.close()
         f = open("result{}".format(current_uid / 100), "a")
         e = open("error{}".format(current_uid / 100), "a")
+        f.write("[{}")
         print("Current UID reached: ", current_uid)
-    if current_uid > 3000:
+    if current_uid > max_current_uid:
         break
 
 
+f.write("]")
 f.close()
 e.close()
+
+# cat result | jq . > out.json
+# out.json is formated
+
+print("Valid info: {}".format(valid))
+print("Invalid info: {}".format(invalid))
+print("Current_uid: {}".format(current_uid))
+print("Finished")
 
