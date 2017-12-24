@@ -1,5 +1,5 @@
 # bilibili Crawler
-程序很小，熟悉新手练习。
+程序很小，属于新手练习。
 
 
 - 无报错重试。
@@ -7,10 +7,12 @@
 - 收藏、作品、订阅信息只爬取了第一页。
 
 
-## 环境
+## 运行环境
 - Ubuntu 16.04
 - Python 3.*
 - 实际上开发的时候在anaconda3的docker里面跑的。
+- Run: `python3 crawler.py` or `python crawler.py`
+  - 输入期望爬取的有效数据量、最大爬取的用户量（有效和无效的总量）、开始爬取的用户UID
 
 
 ## 数据导出
@@ -69,7 +71,7 @@
 	- Header: `{"Content-Type": "application/x-www-form-urlencoded
 ", "Referer": "Referer: https://space.bilibili.com/5551
 "}`
-	- Body: "mid=5551&csrf=null"
+	- Body: `mid=5551&csrf=null`
 - 订阅视频: `GET http://space.bilibili.com/ajax/Bangumi/getList?mid=5551`
 - 番剧标签: `GET http://bangumi.bilibili.com/jsonp/seasoninfo/6446.ver?callback=seasonListCallback`
 
