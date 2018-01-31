@@ -29,6 +29,6 @@
 		- 其中 `datetime` 属性含发布时间的字符串
 	- 文字每部分文字被 `<p />` 包裹
 	- 以 `<span class='BlockTitle-title' />` 为评论数
-- 微博文章搜索结果 共采集
+- 微博文章搜索结果 共采集178条
 	- 以 `<a class='W_texta W_fb' />` 中的 title 属性为标题
 	- 以 `<a class='W_textb' title='\u5206\u4eab'>` 为分享数 
