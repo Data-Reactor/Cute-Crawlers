@@ -1,0 +1,497 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 30 Jan 2018 08:09:28 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: max-age=0
+x_ad_pagesize: adpagesize=0
+Set-Cookie: black_passportid=1; domain=.sogou.com; path=/; expires=Thu, 01-Dec-1994 16:00:00 GMT
+Expires: Tue, 30 Jan 2018 08:09:28 GMT
+Content-Length: 34572
+
+
+<!doctype html>
+<html><head><meta charset="utf-8">
+<title>旅行青蛙 – 搜狗知乎搜索</title>
+<link rel="shortcut icon" href="http://logo.www.sogou.com/images/logo2014/new/favicon.ico" type="image/x-icon">
+<script>var sst={h_s:(new Date()).getTime()}</script>
+<link rel="stylesheet" href="/css/pc/module_zhihu_result.min.v.0.2.css">
+<link rel="stylesheet" href="/css/pc/zhihu_result161214.v.0.0.6.css">
+<script>
+var oldQuery="旅行青蛙",gbkQuery="%C2%C3%D0%D0%C7%E0%CD%DC",uuid="7ee339b1-95e0-433b-bd72-6ae33eee3930",
+keywords_string="旅行青蛙",sab="0",keywords=oldQuery.split(' '),now=1517299768242,
+idc="gd",clientIp="116.52.119.133";
+
+</script><script src="/js/require.min.js"></script>
+<script src="/js/declare.min.js"></script>
+<script src="/js/sogou_common2.min.v.0.0.1.js"></script>
+<script src="/js/zhihu_pc.min.v.0.0.2.js"></script>
+<script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
+<script>function call_cloud(a){setTimeout(function(){call_cloud(a)}, 500);}sst.h_e=$s.t();var newpage= 1,passportUserId=""</script>
+</head>
+<body><script>function getCookieVal(offset){var endstr=document.cookie.indexOf(";",offset);if(endstr==-1)endstr=window.document.cookie.length;return document.cookie.substring(offset,endstr)}function getCookie(name){var arg=name+"=";var alen=arg.length;var clen=document.cookie.length;var i=0;while(i<clen){var j=i+alen;if(document.cookie.substring(i,j)==arg)return getCookieVal(j);i=document.cookie.indexOf(" ",i)+1;if(i==0)break}return null}</script>
+
+
+
+
+<div class="header-box" style="height: 86px">
+<div class="header" id="header"><a href="http://zhihu.sogou.com" class="logo" id="zhihu_logo"></a>
+	
+<ul class="searchnav" >
+	<li><a href="http://news.sogou.com/news?ie=utf8&p=76330300&query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99" id="sogou_news" onclick="navBar(this,'query=',true);">新闻</a></li>
+	<li><a href="http://www.sogou.com/web?ie=utf8&p=76330100&query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99" id="sogou_leftall" onclick="navBar(this,'query=',true);">网页</a></li>
+	<li><a href="http://weixin.sogou.com/weixin?ie=utf8&p=76331800&type=2&query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99" id="sogou_leftweixin" onclick="navBar(this,'query=',true);">微信</a></li>
+    <li class="cur"><a>知乎</a></li>
+	<li><a href="http://pic.sogou.com/pics?ie=utf8&p=76330500&query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99" id="sogou_pic" onclick="navBar(this,'query=',true)">图片</a></li>
+	<li><a href="http://v.sogou.com/v?ie=utf8&p=76330600&query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99" onclick="navBar(this,'query=',true)" id="sogou_video">视频</a></li>
+	<li><a href="http://mingyi.sogou.com/mingyi?ie=utf8&query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99" id="sogou_mingyi" onclick="navBar(this,'query=',true)">明医</a></li>
+	
+	<li><a href="http://english.sogou.com/english?ie=utf8&query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99" id="sogou_english" onclick="navBar(this,'query=',true)">英文</a></li>
+	<li><a href="http://wenwen.sogou.com/s/?ch=zhihusearch&ie=utf8&w=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99" id="sogou_wenwen" onclick="navBarToWenWen(this,'w=',true)">问问</a></li>
+	
+	<li><a href="http://scholar.sogou.com/xueshu?ie=utf-8&query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99" id="sogou_scholar" onclick="navBar(this,'query=',true)">学术</a></li>
+    <li class="navMore"><a href="http://www.sogou.com/docs/more.htm?v=1" id="sogou_more" target="_blank">更多<span>&gt;&gt;</span></a></li>
+</ul>
+<form name="searchForm" id="searchForm" action="/zhihu">
+    <div class="querybox">
+      <div class="qborder">
+        <div class="qborder2">
+            
+
+<input type="text" class="query" id="upquery" name="query" ov="旅行青蛙" value="旅行青蛙" autocomplete="off">
+
+<a href="javascript:void(0)" class="qreset2"></a>
+
+<input type="hidden" name="ie" value="utf8" />
+        </div>
+           </div>
+        <input type="hidden" name="dp" value="1">
+        <input type="submit" value="搜狗搜索" class="sbtn1" id="searchBtn" uigs="searchBtn" onmouseover="this.className='btnactive'" onmousedown="this.className='btnactive'" onmouseup="this.className='sbtn1'" onmouseout="this.className='sbtn1'">
+    </div>
+</form>
+</div>
+</div>
+
+
+<div class="zhihu-warp"><div class="result-content">
+<div class="box-result">
+
+
+    
+
+
+ 
+
+    
+
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33422669" id="zhihu_title_article_370">呱娃子在《<em><!--red_beg-->旅行青蛙<!--red_end--></em>》里给我寄来了明信片, 它到底浪哪去了?</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/dansonjwd" id="zhihu_username_article_370">最惠比</a>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33422669"><img src="http://img02.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic1.zhimg.com%2Fv2-c85dd58e59f79bcd7b33fb0d4685c048_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33422669" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33422669" id="zhihu_summary_article_370">这几天,朋友圈被一款名为＂<em><!--red_beg-->旅行青蛙<!--red_end--></em>＂的游戏刷屏.一时之间,一批操碎心的老母亲们拔地而起,每天担心着自己的＂呱娃子＂过得怎么样.看书、写日记、吃饭、削木头、出门旅行、认识新朋友、带...</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33422669" id="zhihu_number_answer_370&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33338980" id="zhihu_title_article_371"><em><!--red_beg-->旅行<!--red_end--></em>的<em><!--red_beg-->青蛙<!--red_end--></em>,我的想法</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/huo-yan-fen-fei" id="zhihu_username_article_371">火焰纷飞</a>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33338980"><img src="http://img04.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic4.zhimg.com%2Fda8e974dc_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33338980" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33338980" id="zhihu_summary_article_371">《<em><!--red_beg-->旅行<!--red_end--></em>的<em><!--red_beg-->青蛙<!--red_end--></em>》是最近比较流行的一款佛系游戏,在家与否,出门去哪等等一系列的行为都是由<em><!--red_beg-->青蛙<!--red_end--></em>来决定的.不少玩家亲切的称呼<em><!--red_beg-->青蛙<!--red_end--></em>为蛙儿子之类的,世界上也突然间就多出了许多的空巢老人,也许...</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33338980" id="zhihu_number_answer_371&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33288454" id="zhihu_title_article_372">你的<em><!--red_beg-->青蛙<!--red_end--></em>儿子回家了吗?<em><!--red_beg-->旅行青蛙<!--red_end--></em>与佛系理财之道</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/doudou-95-28" id="zhihu_username_article_372">doudou</a>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33288454"><img src="http://img04.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic4.zhimg.com%2Fda8e974dc_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33288454" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33288454" id="zhihu_summary_article_372">说回<em><!--red_beg-->旅行青蛙<!--red_end--></em>这款游戏,除了背景和音乐还有画风吸引人外,这款游戏为何会广受好评呢?因为他慢悠悠的生活方式和随心所欲的<em><!--red_beg-->旅游<!--red_end--></em>时间是当代人所向往的,当你的＂蛙儿子＂开始远行时,你的内心也....</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33288454" id="zhihu_number_answer_372&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33265170" id="zhihu_title_article_373">＂妈,我回来了＂&mdash;&mdash;《<em><!--red_beg-->旅行青蛙<!--red_end--></em>》为什么好玩?</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/mo-cha-da-shu-ray" id="zhihu_username_article_373">抹茶大叔Ray</a><cite>钟情电玩的销售经理</cite>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33265170"><img src="http://img02.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic2.zhimg.com%2Fv2-bbd2b12c55944b4e2a509c88e25d7f94_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33265170" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33265170" id="zhihu_summary_article_373">最近,朋友圈充斥着各种晒儿砸,找儿砸,碎碎念儿砸的身影.作为一名老玩者,我不禁好奇这款名叫《<em><!--red_beg-->旅行青蛙<!--red_end--></em>》的手游魅力何在.在好奇心的驱使下,我也开始了一把屎一把尿的养娃之旅.《<em><!--red_beg-->旅行青蛙<!--red_end--></em>》...</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33265170" id="zhihu_number_answer_373&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33273541" id="zhihu_title_article_374">新晋网红＂<em><!--red_beg-->旅行青蛙<!--red_end--></em>＂带你去看日本独特的清洁博物馆</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/qiu-xue-zhe-70-13-52" id="zhihu_username_article_374">洁满仓</a><cite>http://www.jiemancang.com 清洁设备 清洁服务 洁满仓</cite>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33273541"><img src="http://img01.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic2.zhimg.com%2Fv2-bb615ac5d47ebfed8698a004418d8de7_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33273541" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33273541" id="zhihu_summary_article_374">Store里逛一圈,你会发现它已经被无情地＂排挤＂出免费游戏下载榜第一页的行列.而空降榜单的,正是《<em><!--red_beg-->旅行青蛙<!--red_end--></em>》.从养＂老公＂到养青蛙,短短几天,热门风向标就发生了翻天覆地的变化.游戏的主...</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33273541" id="zhihu_number_answer_374&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33291680" id="zhihu_title_article_375">中红旅|从《<em><!--red_beg-->旅行青蛙<!--red_end--></em>》等爆款游戏的策划逻辑分析<em><!--red_beg-->旅游<!--red_end--></em>景区社交升级和...</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/quan-yu-lv-you" id="zhihu_username_article_375">全域旅游</a><cite>旅游规划设计师</cite>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33291680"><img src="http://img04.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic4.zhimg.com%2Fda8e974dc_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33291680" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33291680" id="zhihu_summary_article_375">游戏设置的<em><!--red_beg-->旅行<!--red_end--></em>场景,都是真实的<em><!--red_beg-->旅游<!--red_end--></em>目的地,比如名古屋城天守阁、信州善光寺、草津温泉等.从探索商业化方面分析,《<em><!--red_beg-->旅行青蛙<!--red_end--></em>》等放置类游戏的广告也与其他游戏有所不同,看广告得到抽奖券可...</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33291680" id="zhihu_number_answer_375&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33337749" id="zhihu_title_article_376">火爆中美＂旅かえる＂(<em><!--red_beg-->旅行青蛙<!--red_end--></em>)的佛系留学生活</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/bei-mei-liu-xue-xin-xian-shi" id="zhihu_username_article_376">求真崔老师</a><cite>美国留学教育专家-开除应对申请转学专家 微信: indeed-edu</cite>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33337749"><img src="http://img03.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic3.zhimg.com%2Fv2-0c116a2a8d5727fcdce1a48e0404c04c_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33337749" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33337749" id="zhihu_summary_article_376"><em><!--red_beg-->旅行青蛙<!--red_end--></em>最近,一款火爆的佛系养成类游戏,迅速受到朋友圈和微博青年的喜爱.为了防止小伙伴下载错误的app游戏,请小伙伴们复制��文字下载游戏旅かえる主角是一只憨厚可爱的小青蛙,玩家通过...</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33337749" id="zhihu_number_answer_376&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33237399" id="zhihu_title_article_377">为什么喜欢<em><!--red_beg-->旅行青蛙<!--red_end--></em>&mdash;比起更好的自己,我宁愿做最爽的自己</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/huang-xiao-ya-98-99" id="zhihu_username_article_377">黄小鸭</a><cite>公众号:都选C吖</cite>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33237399"><img src="http://img04.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic4.zhimg.com%2Fda8e974dc_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33237399" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33237399" id="zhihu_summary_article_377">看看呱呱,没有鸿鹄之志也还有追梦赤子心呢,步履不停,满是一只蛙的精彩.床头挂着需要用脚丈量的手绘地图,准备好帐篷、食物和幸运草,就来一场说走就走的<em><!--red_beg-->旅行<!--red_end--></em>,遇到和它一样有趣的小伙伴,...</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33237399" id="zhihu_number_answer_377&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33329977" id="zhihu_title_article_378">最近火爆的<em><!--red_beg-->旅行青蛙<!--red_end--></em>＂蛙儿子＂出走之后给我带回了这份惊喜! 喝墨水</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/zhi-hu-zhe-yi-51" id="zhihu_username_article_378">之乎者矣</a>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33329977"><img src="http://img03.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic3.zhimg.com%2Fv2-39792fad720c62fcd8f515945d796069_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33329977" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33329977" id="zhihu_summary_article_378">致敬所有文案小编~爱文艺 喝墨水喝墨水酱香文艺小酒</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33329977" id="zhihu_number_answer_378&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+            <div class="result-about-list">
+<h4 class="about-list-title">
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/33218666" id="zhihu_title_article_379">天搜分析国内无法做出《<em><!--red_beg-->旅行青蛙<!--red_end--></em>》这样游戏的原因</a>
+</h4>
+<p class="about-answer">
+<span class="count">0个赞</span><a target="_blank" href="https://www.zhihu.com/people/tian-sou-ren" id="zhihu_username_article_379">天搜人</a><cite>网络编辑</cite>
+</p>
+<div class="about-text">
+<span class="about-img"><a target="_blank" href="https://zhuanlan.zhihu.com/p/33218666"><img src="http://img04.sogoucdn.com/v2/thumb/resize/w/128/h/96/ir/3/zi/on/iw/96/ih/72/crop/x/0/y/0/w/128/h/96?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic4.zhimg.com%2Fda8e974dc_r.jpg&amp;referer=https://zhuanlan.zhihu.com/p/33218666" onerror="imgErr(this.parentNode.parentNode)"><i class="play"></i></a></span>
+<p class="summary-answer-num">
+<a class="link-white-pre" target="_blank" href="https://zhuanlan.zhihu.com/p/33218666" id="zhihu_summary_article_379">这两天,《<em><!--red_beg-->旅行青蛙<!--red_end--></em>》这块来自日本的佛系游戏可谓是火爆朋友圈!什么李泽言,王者荣耀统统都丢一边!我的蛙儿子去旅行才是所有人关心的热点! 许多人纷纷表示,逃过了王者荣耀,避过了四大小奶...</a>
+</p>
+<p class="m4">
+<span class="answer-num">
+                            文章<span class="line-sp"></span><a target="_blank" href="https://zhuanlan.zhihu.com/p/33218666" id="zhihu_number_answer_379&quot;/>">0个评论
+                            </a></span>
+</p>
+</div>
+</div>
+
+         
+        
+        
+        
+    
+
+    
+
+<div class="result-page"><ul><li><a id="zhihu_page_prev" href="?query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99&sut=5421&lkt=1%2C1517295349376%2C1517295349376&sst0=1517295349480&page=37&ie=utf8">上一页</a></li><li><a id="zhihu_page_1" href="?query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99&sut=5421&lkt=1%2C1517295349376%2C1517295349376&sst0=1517295349480&page=1&ie=utf8" >1</a></li><li>...</li><li><a id="zhihu_page_35" href="?query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99&sut=5421&lkt=1%2C1517295349376%2C1517295349376&sst0=1517295349480&page=35&ie=utf8">35</a></li><li><a id="zhihu_page_36" href="?query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99&sut=5421&lkt=1%2C1517295349376%2C1517295349376&sst0=1517295349480&page=36&ie=utf8">36</a></li><li><a id="zhihu_page_37" href="?query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99&sut=5421&lkt=1%2C1517295349376%2C1517295349376&sst0=1517295349480&page=37&ie=utf8">37</a></li><li class="active"><a href="javascript:void(0)">38</a></li><li><a id="zhihu_page_39" href="?query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99&sut=5421&lkt=1%2C1517295349376%2C1517295349376&sst0=1517295349480&page=39&ie=utf8">39</a></li><li><a id="zhihu_page_40" href="?query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99&sut=5421&lkt=1%2C1517295349376%2C1517295349376&sst0=1517295349480&page=40&ie=utf8">40</a></li><li><a id="zhihu_page_41" href="?query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99&sut=5421&lkt=1%2C1517295349376%2C1517295349376&sst0=1517295349480&page=41&ie=utf8">41</a></li><li><a id="zhihu_page_next" href="?query=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99&sut=5421&lkt=1%2C1517295349376%2C1517295349376&sst0=1517295349480&page=39&ie=utf8" class="np">下一页</a></li>
+</ul></div>
+<div class="foot">
+<form name="searchForm1" id="searchForm1" action="/zhihu">
+      <input type="hidden" name="ie" value="utf8" />
+        <div class="qborder">
+            <div class="qborder2">
+                <input id="bottom_form_querytext" name="query" type="text" class="query" size="32" autocomplete="off" value="旅行青蛙"/>
+                <a href="javascript:void(0)" class="qreset2 qreset-bottom" style="visibility: hidden"></a>
+            </div>
+        </div>
+        <input type="hidden" name="dp" value="1">
+        <input type="submit" value="搜狗搜索" id="bottom_form_searchBt"  onmouseover="this.className='btnactive'" onmouseup="this.className='sbtn1'" onmouseout="this.className='sbtn1'" class="sbtn1" uigs="searchBtBottom">
+        </form>
+</div></div><div class="box-about">
+
+
+            <div class="result-topic">
+<h3 class="result-title">相关话题</h3>
+<a href="" target="_blank" class="topic-more" id="zhihu_topic_lookall">更多</a>
+<div class="topic-list">
+<a class="topic-img" target="_blank" id="zhihu_topic_image_380_1" href="https://www.zhihu.com/topic/20165712"><img style="visibility:hidden;border:none;" onload="vrImgLoad(this, 'fit', 40, 40)" onerror="this.src='/images/default.jpg'" src="http://img03.sogoucdn.com/v2/thumb/resize/w/100/h/100/ir/3/zi/on/iw/75/ih/75/crop/x/0/y/0/w/100/h/100?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic3.zhimg.com%2Fv2-a35aa7ec0221437754786d3def31c3d1_l.jpg&amp;referer=https://www.zhihu.com/topic/20165712"></a>
+<h4>
+<a target="_blank" id="zhihu_topic_title_380_1" href="https://www.zhihu.com/topic/20165712"><em><!--red_beg-->旅行青蛙<!--red_end--></em>(旅かえる)</a>
+</h4>
+<p>
+<span>31k</span>人关注<i>|</i><span>445</span>个问题</p>
+</div>
+<div class="topic-list">
+<a class="topic-img" target="_blank" id="zhihu_topic_image_380_2" href="https://www.zhihu.com/topic/19641401"><img style="visibility:hidden;border:none;" onload="vrImgLoad(this, 'fit', 40, 40)" onerror="this.src='/images/default.jpg'" src="http://img02.sogoucdn.com/v2/thumb/resize/w/100/h/100/ir/3/zi/on/iw/75/ih/75/crop/x/0/y/0/w/100/h/100?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic2.zhimg.com%2F0f83b0902fec3acf45a3e45d2f69dbcb_l.jpg&amp;referer=https://www.zhihu.com/topic/20165712"></a>
+<h4>
+<a target="_blank" id="zhihu_topic_title_380_2" href="https://www.zhihu.com/topic/19641401"><em><!--red_beg-->青蛙<!--red_end--></em></a>
+</h4>
+<p>
+<span>5439</span>人关注<i>|</i><span>2509</span>个问题</p>
+</div>
+<div class="topic-list">
+<a class="topic-img" target="_blank" id="zhihu_topic_image_380_3" href="https://www.zhihu.com/topic/19551556"><img style="visibility:hidden;border:none;" onload="vrImgLoad(this, 'fit', 40, 40)" onerror="this.src='/images/default.jpg'" src="http://img02.sogoucdn.com/v2/thumb/resize/w/100/h/100/ir/3/zi/on/iw/75/ih/75/crop/x/0/y/0/w/100/h/100?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic1.zhimg.com%2F2178ec835c7198af83d6b541bb2b9849_l.jpg&amp;referer=https://www.zhihu.com/topic/20165712"></a>
+<h4>
+<a target="_blank" id="zhihu_topic_title_380_3" href="https://www.zhihu.com/topic/19551556"><em><!--red_beg-->旅行<!--red_end--></em></a>
+</h4>
+<p>
+<span>14017k</span>人关注<i>|</i><span>98k</span>个问题</p>
+</div>
+<div class="topic-list">
+<a class="topic-img" target="_blank" id="zhihu_topic_image_380_4" href="https://www.zhihu.com/topic/19647099"><img style="visibility:hidden;border:none;" onload="vrImgLoad(this, 'fit', 40, 40)" onerror="this.src='/images/default.jpg'" src="http://img02.sogoucdn.com/v2/thumb/resize/w/100/h/100/ir/3/zi/on/iw/75/ih/75/crop/x/0/y/0/w/100/h/100?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic3.zhimg.com%2F853d7134586d8aa5585eeb6568074262_l.png&amp;referer=https://www.zhihu.com/topic/20165712"></a>
+<h4>
+<a target="_blank" id="zhihu_topic_title_380_4" href="https://www.zhihu.com/topic/19647099"><em><!--red_beg-->旅行<!--red_end--></em>计划</a>
+</h4>
+<p>
+<span>1733k</span>人关注<i>|</i><span>7383</span>个问题</p>
+</div>
+</div><script>
+            (function() {
+                var itemId = [
+            
+                ['380','1'],
+                ['380','2'],
+                ['380','3'],
+                ['380','4']
+            ];
+            for(var i = 0, len = itemId.length; i < len; i++){
+                removeEmTag('zhihu_topic_title_'+itemId[i][0]+'_'+itemId[i][1]);
+            }
+            for(var i = 0, len = itemId.length; i < len; i++){
+                cutTopicName('zhihu_topic_title_'+itemId[i][0]+'_'+itemId[i][1]);
+            }
+            })();
+        </script>
+
+            <div class="box-about-user">
+<h3 class="result-title">相关用户</h3>
+<div class="about-user">
+<span class="about-user-pic"><a target="_blank" href="https://www.zhihu.com/people/mu-mu-mu-lan" id="zhihu_people_image_381_1"><img style="visibility:hidden;border:none;" onload="vrImgLoad(this, 'fit', 40, 40)" onerror="this.src='/images/default_people.jpg'" src="http://img02.sogoucdn.com/v2/thumb/resize/w/100/h/100/ir/3/zi/on/iw/75/ih/75/crop/x/0/y/0/w/100/h/100?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic1.zhimg.com%2Fv2-4441a68ddf8a9af9e25507747a7a71bb_l.jpg&amp;referer=https://www.zhihu.com/people/mu-mu-mu-lan"></a></span>
+<h4 class="about-user-mes user-sex-women">
+<a target="_blank" href="https://www.zhihu.com/people/mu-mu-mu-lan" id="zhihu_people_uname_381_1"><em><!--red_beg-->旅行青蛙<!--red_end--></em><i></i></a>
+</h4>
+<p>什么都不是</p>
+<cite><span>4</span>人关注<i>|</i><span>0</span>个回答</cite>
+</div>
+<script>
+            (function(id,pos){
+                var handleId = 'zhihu_people_uname_'+id+"_"+pos;
+                removeEmTag(handleId);
+                cutPersonName(handleId);
+            })('381','1');
+        </script>
+<div class="about-user">
+<span class="about-user-pic"><a target="_blank" href="https://www.zhihu.com/people/lu-xing-qing-wa-wang-zi" id="zhihu_people_image_381_2"><img style="visibility:hidden;border:none;" onload="vrImgLoad(this, 'fit', 40, 40)" onerror="this.src='/images/default_people.jpg'" src="http://img02.sogoucdn.com/v2/thumb/resize/w/100/h/100/ir/3/zi/on/iw/75/ih/75/crop/x/0/y/0/w/100/h/100?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic4.zhimg.com%2Fda8e974dc_l.jpg&amp;referer=https://www.zhihu.com/people/mu-mu-mu-lan"></a></span>
+<h4 class="about-user-mes">
+<a target="_blank" href="https://www.zhihu.com/people/lu-xing-qing-wa-wang-zi" id="zhihu_people_uname_381_2"><em><!--red_beg-->旅行青蛙<!--red_end--></em>王子</a>
+</h4>
+<cite><span>0</span>人关注<i>|</i><span>0</span>个回答</cite>
+</div>
+<script>
+            (function(id,pos){
+                var handleId = 'zhihu_people_uname_'+id+"_"+pos;
+                removeEmTag(handleId);
+                cutPersonName(handleId);
+            })('381','2');
+        </script>
+<div class="about-user">
+<span class="about-user-pic"><a target="_blank" href="https://www.zhihu.com/people/dai-zhao-qing-wa-qu-lu-xing" id="zhihu_people_image_381_3"><img style="visibility:hidden;border:none;" onload="vrImgLoad(this, 'fit', 40, 40)" onerror="this.src='/images/default_people.jpg'" src="http://img01.sogoucdn.com/v2/thumb/resize/w/100/h/100/ir/3/zi/on/iw/75/ih/75/crop/x/0/y/0/w/100/h/100?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic1.zhimg.com%2Fda8e974dc_l.jpg&amp;referer=https://www.zhihu.com/people/mu-mu-mu-lan"></a></span>
+<h4 class="about-user-mes">
+<a target="_blank" href="https://www.zhihu.com/people/dai-zhao-qing-wa-qu-lu-xing" id="zhihu_people_uname_381_3">带着<em><!--red_beg-->青蛙<!--red_end--></em>去<em><!--red_beg-->旅行<!--red_end--></em></a>
+</h4>
+<p>大黄靴</p>
+<cite><span>107</span>人关注<i>|</i><span>1</span>个回答</cite>
+</div>
+<script>
+            (function(id,pos){
+                var handleId = 'zhihu_people_uname_'+id+"_"+pos;
+                removeEmTag(handleId);
+                cutPersonName(handleId);
+            })('381','3');
+        </script>
+<div class="about-user">
+<span class="about-user-pic"><a target="_blank" href="https://www.zhihu.com/people/lalala-84-19" id="zhihu_people_image_381_4"><img style="visibility:hidden;border:none;" onload="vrImgLoad(this, 'fit', 40, 40)" onerror="this.src='/images/default_people.jpg'" src="http://img04.sogoucdn.com/v2/thumb/resize/w/100/h/100/ir/3/zi/on/iw/75/ih/75/crop/x/0/y/0/w/100/h/100?t=2&amp;appid=200648&amp;url=https%3A%2F%2Fpic2.zhimg.com%2Fv2-619d14e78d80baaa6f2bef83479aade2_l.jpg&amp;referer=https://www.zhihu.com/people/mu-mu-mu-lan"></a></span>
+<h4 class="about-user-mes">
+<a target="_blank" href="https://www.zhihu.com/people/lalala-84-19" id="zhihu_people_uname_381_4">龙哥的<em><!--red_beg-->旅行青蛙<!--red_end--></em></a>
+</h4>
+<cite><span>0</span>人关注<i>|</i><span>1</span>个回答</cite>
+</div>
+<script>
+            (function(id,pos){
+                var handleId = 'zhihu_people_uname_'+id+"_"+pos;
+                removeEmTag(handleId);
+                cutPersonName(handleId);
+            })('381','4');
+        </script><a href="javascript:void(0)" target="_blank" class="btn-about-more" id="zhihu_people_lookall">更多</a>
+</div>
+
+        
+
+
+<div class="box-keywords" id="result_hotwords" style="display: none"></div>
+</div></div>
+
+<p class="padding-b"></p>
+<div class="box-copy-result">
+    <p>
+        <a href="http://help.sogou.com/?v=1" target="_blank">搜索帮助</a>
+        <a href="http://e.weibo.com/sogou" target="_blank">官方微博</a>
+        &copy; 2018 SOGOU.COM <a href="http://www.sogou.com/docs/terms.htm?v=1" target="_blank" class="relief">免责声明</a> <a href="http://corp.sogou.com/private.html" target="_blank" class="relief">隐私政策</a> 
+    </p>
+</div></div>
+<script type="text/javascript">
+    var uigs_para={"uigs_productid":"vs_web","vstype":"zhihu", "pagetype":"result","channel":"result_pc","terminal":"web", "stype":"search", "uigs_cookie":"SUID,sct","uuid":"7ee339b1-95e0-433b-bd72-6ae33eee3930",relatedUser:"0", relatedTopic:"0", "query":"旅行青蛙","exp_status":"null","exp_id":"null_370-null_371-null_372-null_373-null_374-null_375-null_376-null_377-null_378-null_379-null_380-null_381-","exp_id_list":"null"};
+    if ($('p#jiucuo_qc_type1').length>0){
+        uigs_para["jiucuo_qc_type"]=1;
+    }else if ($('p#jiucuo_qc_type2').length>0){
+        uigs_para["jiucuo_qc_type"]=2;
+    }else if ($('p#jiucuo_qc_type3').length>0){
+        uigs_para["jiucuo_qc_type"]=3;
+    }
+    if( $(".topic-list").length > 0 ){
+        uigs_para.relatedUser = 1
+    }
+    if ($(".box-about-user").length > 0){
+        uigs_para.relatedTopic = 1;
+    }
+</script>
+<script>
+uigs_para&&(uigs_para.noresult=0);
+uigs_para&&(uigs_para.rn=1);
+
+</script>
+<script>sst.b_e=$s.t();</script>
+<script type="text/javascript" src="/js/zhihu_totop.min.js?v=6"></script>
+<script type="text/javascript" src="/js/zhihu_init.min.js?v=2"></script>
+<script type="text/javascript" src="/js/zhihu_share.min.js?v=3"></script>
+<script type="text/javascript" src="/js/pbnew.min.js?v=1"></script>
+<script>var SugPara = {"enableSug":true,"sugType":"zhihu","domain":"w.sugg.sogou.com","productId":"zhihu","inputid":"upquery",oms:1,useParent:1,"frpage":"zhihu_result"};</script>
+<script type="text/javascript" src="/js/zhihu_pc_sugg.min.v.1.js"></script>
+</body></html>
+<!--1517299768242-->
+
+
+
+<!--STATUS total 12 time 29 page 0 maxEnd 610 totalItems 1140-->
+<!--real_pageno:38-->
+<!--zly-->
+
+
