@@ -1,0 +1,1984 @@
+HTTP/1.1 200 OK
+Server: Sina
+Date: Tue, 06 Feb 2018 08:38:30 GMT
+Content-Type: text/html;charset=gbk
+Content-Length: 116014
+Connection: close
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Prama: no-cache
+Vary: Accept-Encoding
+DPOOL_HEADER: jugg91
+DPOOL_LB7_HEADER: jugg139
+DPOOL: web2_other
+X-Varnish: 688462258
+Age: 0
+Via: 1.1 varnish (Varnish/5.0)
+x-hits: 0
+X-Cache: MISS dpgd.48.118
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="apple-touch-icon" href="http://i2.sinaimg.cn/dy/deco/2010/0709/icon.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>新闻搜索_新浪搜索_新浪网</title>
+<meta name="keywords" content="新闻搜索,新浪搜索,新浪网" />
+<meta name="description" content="新浪新闻搜索" />
+<meta name="viewport" content="initial-scale = 1.0,maximum-scale=1.0" />
+
+<style type="text/css">
+/* 脥篓脫脙 */
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, table, td, img { margin: 0; padding: 0; }
+input, select, textarea { margin:0; }
+fieldset, img { border:none; }
+address, caption, cite, code, dfn, em, th, var { font-style: normal; font-weight: normal; }
+ul, ol { list-style-type:none; }
+select, input { vertical-align:middle; }
+select, input, textarea { font-size:12px; }
+body { background:#fff; color:#000; font:13px/20px "arial"; }
+.clearfix:after { content:"."; display:block; height:0; visibility:hidden; clear:both; }
+.clearfix { zoom:1; }
+.clearit { clear:both; height:0px; overflow:hidden; }
+.lh20 { line-height:20px; }
+.pl20{padding-left:20px;}
+.lh23 { line-height:23px; }
+.sp10 { height:10px; overflow:hidden; }
+.f12 { font-size:12px; }
+.f14 { font-size:14px; }
+.fB { font-weight:bold; }
+.fwhite, a.fwhite { color:#fff; }
+.fblack { color:#000; }
+.fred { color:#c00; }
+.fgreen { color:#009900; font-size:12px; }
+.fgray_time { color:#666; font-size:12px; }
+a.fnoL { text-decoration:none; }
+a.fnoL:hover { text-decoration:underline; }
+.fB { font-weight:bold; }
+.fgray { color:#999; }
+.space { height:10px; background:#fff; overflow:hidden; clear:both; }
+.fblue { color:#000099; }
+.wbret-wrap { margin-top:15px; margin-bottom:19px;/* width:205px; *//* 20120910 dalong3*/ display:block; padding:10px 15px; /*background-color:#f2f6f9; */border-bottom:1px dashed #c3d0ed; }
+a.wbret-wrap, a.wbret-wrap:link, a.wbret-wrap:visited, a.wbret-wrap:active, a.wbret-wrap:hover, a.wbret-wrap:focus { text-decoration:none; }
+.wbret-wrap { margin-top:10px; }/*20120910 dalong3*/
+.wbret-tt { display:block; padding:0 0 0 20px; background:url(images/swb_01.png) 0 0 no-repeat; }
+.wbret-tt span { text-decoration:none; font-size:14px; }
+.wbret-p1 { display:block; padding:10px 0 5px 0; border-bottom:1px dotted #ccc; font-size:12px; color:#333; }
+.wbret-date1 { display:block; color:#999; }
+.wbret-p2 { word-wrap:break-word;display:block; padding:5px 0 5px 0; font-size:12px; color:#333; }
+.wbret-link1 { padding:0; color:#000099; }
+a.wbret-link1:link, a.wbret-link1:visited { color:#00099; text-decoration:none; }
+a.wbret-link1:active, a.wbret-link1:hover, a.wbret-link1:focus { text-decoration:underline; }
+.wbret-p3 { display:block; padding:0; font-size:12px; }
+.wblink { color:#26A2DA; }
+a { color:#000099; text-decoration:none; }
+a:hover { color: #ff0000; text-decoration:underline; }
+.tac { text-align:center; }
+.tar { text-align:right; }
+.pad10 { padding:10px; }
+.wrap { width:1000px; }
+/*碌炉鲁枚虏茫脳篓脫脙*/
+a.fred { color:#c00; }
+.layer-frame { border:0; position:absolute; filter: alpha(opacity=0); }
+.l { float:left; }
+.r { float:right; }
+.r a { margin:5px; }
+.r a.style_a { margin-left:0px; }
+/*20120912 dalong3 start*/
+.r a { color:#000000; }
+.product_l .r .style_box { border-right:dotted 1px #ccc; margin-right:5px; padding-right:10px }
+.product_l .r a:link, .r a:visited { color:#000 }
+.product_l .r a:hover { color:#000; text-decoration:underline; }
+.zcblk01 .titChange1 { width:550px; }
+/*20120912 dalong3 end*/
+
+/* xuehua1 modify 20130911 start*/
+.topWrap{ background-color:#f6f6f6; border-bottom:solid 1px #ececec; min-width:1000px; margin-bottom:8px;}
+.navType{ float:left; font-size:14px;padding:18px 0 0 9px}
+/* xuehua1 modify 20130911 end*/
+.r .style_cion { margin-left:0 }
+.top {position:relative; line-height:26px; padding:8px 10px 0 5px;}/* xuehua1 modify 20130911 */
+.top .l a { float:left; display:inline; margin:2px 3px 0; padding:0 5px; outline:0 }
+.top .l a:link { text-decoration:none; color:#009; }/* xuehua1 modify 20130911 */
+.top .l a:visited { color:#009; }/* xuehua1 modify 20130911 */
+.top .l a:hover { color:#e42f36;}/* xuehua1 modify 20130911 */
+.top .l a.selected { color:#e42f36; font-weight:bold; /*text-decoration:underline*/}/* xuehua1 modify 20130911 */
+.top a:hover, .top a:active, .top a:focus { text-decoration:none; }
+.top .r{ line-height:34px;}/* xuehua1 modify 20130911 */
+.top2 { position: relative; z-index:100; height:80px; width:950px; }
+.top h1 { padding:0 0 0 19px; }/* xuehua1 modify 20130911 */
+.search-form { padding:6px 0 0 31px; zoom:1; }/* xuehua1 modify 20130911 */
+.search-form a:hover, .search-form a:focus { text-decoration:none; }
+.ipt-02 { border:1px solid #898989; padding:3px 5px; line-height:24px; height:24px; font-size:14px; width:608px; margin:0 10px 0 0; }/* xuehua1 modify 20130911 */
+input.ipt-03 { background: url(images/search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_zt { background: url(images/zt_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_img { background: url(images/img_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_blog { background: url(images/blog_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_product { background: url(images/product_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03 { margin-left:7px;}
+form input.ipt-03:hover, input.ipt-03.hover { background-position:0 -50px; }
+input.ipt-03:focus, input.ipt-03:active { outline:none 0; border:none }
+input.ipt-03::-moz-focus-inner {
+border: 0;
+}
+/*20120823 moidfy yan*/
+input.ipt-03b { background:url(images/search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+input.ipt-03b:hover, input.hoverb { background:url(images/search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_zt { background:url(images/zt_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_zt:hover, input.hoverb { background:url(images/zt_search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_img { background:url(images/img_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_img:hover, input.hoverb { background:url(images/img_search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_blog { background:url(images/blog_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_blog:hover, input.hoverb { background:url(images/blog_search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_product { background:url(images/product_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_product:hover, input.hoverb { background:url(images/product_search_btn_yan.png) 0 -50px no-repeat; }
+/* 脭脷陆谩鹿没脰脨脣脩脣梅*/
+.ipt-04 { background:url(http://www.sinaimg.cn/dy/search/images/searchin_btn.png); width:90px; height:26px; border:none; color:#fff; margin:0 3px 0 0; }
+.search-form p { padding:10px 0 0 228px; }
+.search-form p label input { margin:-3px 3px 0 0; }
+.search-form p label { margin:0 1.5em 0 0; }
+/* 赂脽录露脣脩脣梅 by liusong */
+.adv_search { padding:10px 20px; height:600px; }
+.adv_search table { width:100%; margin:20px auto; border-collapse:collapse; border-spacing:0 }
+.adv_search th, .adv_search td { border:dashed 1px #E4E9FA; border-width:1px 0; padding:10px }
+.adv_search th { text-align:left; font-size:14px; width:160px; padding-right:15px }
+.adv_search td p { padding-bottom:10px ;margin:5px;}
+.adv_search .btns { text-align:center; border-width:0; padding:20px }
+.adv_search .btns input { font-size:14px }
+.adv_search label { margin-right:2em; vertical-align:middle }
+.adv_search .inp_txt_long { /*border:solid 1px #9EB5E4;*/  width:220px;padding:3px 4px ;float:right;margin-right:280px;}
+.adv_search .inp_txt { /*border:solid 1px #9EB5E4;*/  width:220px;padding:3px 4px ;margin-right:40px;}
+.date_pick .inp_txt { width:100px; background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_011.png) no-repeat 95% center; cursor:pointer; }
+.data-select { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_011.png) no-repeat 95% center; border:1px solid #8fcee0; padding:2px; height:14px; line-height:14px; width:80px; cursor:pointer; }
+.adv_search select { width:110px; margin-right:16px }
+
+.sec_tit h2 { font-weight:bold; margin:-10px 0 0px; font-family:"脦垄脠铆脩脜潞脷", "潞脷脤氓"; font-size:18px }
+.nav { border-bottom:solid 1px #ddd;; line-height:28px; color:#666; margin-left:30px; width:700px}
+.nav .l{ padding:0 0 0 155px; }
+.nav .r_v2{ float:right; margin-top:-28px;padding:0px 5px;}
+.nav .r_v2 span{ display:inline-block; border-bottom:solid 1px #e42f36; position:relative; margin-bottom:-1px;}
+.nav .r{ color:#787878; position:relative }
+.nav .r strong, .nav .product_l { font-weight:normal; zoom:1 }
+.nav a:hover, .nav a:focus { text-decoration:none; }
+.nav2 { background:#eef7f9; margin-top:1px; line-height:30px; padding:0 10px; }
+.nav2 .l { border-right:1px solid #cfe9ef; width:150px; }
+.nav2 .r { line-height:normal; height:22px; padding:6px 0 0 0; }
+/*20120823 added yan start*/
+/*common bg*/
+/* 20120908 dalong3 start*/
+li .product_cur, .imgcur, dd ul li, dt .cur, .main .l .toClose, .main .l .toOpen, .reset, .r_list .selected a, .r_list dd .del_h { background:url(images/search_btn_yan.png) 999px 999px no-repeat; }
+.main .l dt{ height:25px; line-height:25px; padding-bottom:2px }
+.wrap .main .sidebar dl ul .selected, .imgcur, .main .l dt .cur, .sRight .r_list dd .cur { background-color:#ffffff; background-position:5px -94px; font-size:14px; margin-bottom:3px; padding-left:18px; }
+ .c_list span.cur li { background-color:#ffffff; background-position:5px -96px; font-size:14px; padding-bottom:3px; }
+.imgcur, .main .l dl dd ul span li .cur {cursor:pointer} 
+.l .sidebar dl dt a span, .sidebar dl dt a, dd ul li {cursor:pointer}
+.imgcur { color:#000; }
+li.imgcur:hover { background-color:#e9eff5; }
+.img_sidebar li a { display:block; }
+.main .l dl dt a, .main .l dl dd li a { color:#000000; }
+.search_history { width:205px; }
+.sRight .wbret-wrap .wbret-p3 .wbret-link1 { color:#7F7FCC; }
+#nav_result_container .zcblk { margin: 0 0 30px 0; padding:10px 0 10px 0; /*width:550px;*/}
+.zcblk .zch .nav_add_log { width:300px; margin-right:23px; }
+/*.zcblk .zcbox .zcwords { width:399px; } hongliang4 脰卤麓茂脟酶脧脭脢戮脠楼碌么*/ 
+/*20120908 dalong3 end*/
+
+.fgrey a:link, .fgrey a:visited { color:#5d5d5d}
+.fgrey a:hover { color:#333; text-decoration:none; }
+
+.main { cursor:default; }
+.main .l { width:125px; cursor:auto; }
+.main .l dl { padding:25px 0 0 0; }
+
+.main .l dt span { display:inline-block; padding-right:10px;}
+.main .l dt a, .main .l dd ul li { display:block; padding-left:17px; }
+.main .l .product_sidebar dl dt { display:block; padding-left:17px;}
+.main .l .product_sidebar .product_sidebar_dl dt { padding-left:0; }
+.main .l .product_sidebar dl dt.product_reset { padding-left:0; }
+#sidebar .product_sidebar { padding-top:10px; width:135px; }
+.main .product_sidebar dl dd ul li.cur:hover { background-color:#e9eff5; }
+.product_sidebar li a:hover { background-color:#e9eff5; }
+.product_sidebar li a { display:block; }
+.c_list a {display:block;}
+.main .l .toClose { background-position:100% -132px; }
+.main .l .toOpen { background-position:100% -170px; }
+.main .l #cannel.toOpen { background-position:-25px -170px; }
+.main .l #sYear.toOpen { background-position:-28px -170px; }
+.main .l #cdatebtn.toOpen { background-position:-3px -170px; }
+
+.main .l a:hover .toClose { background-position:100% -332px; }
+.main .l #cannel.toClose { background-position:-25px -332px; }
+.main .l #sYear.toClose { background-position:-28px -332px; }
+.main .l #cdatebtn.toClose { background-position:-3px -332px; }
+.main .l a:hover .toOpen { background-position:100% -370px; }
+
+.main .l a:link, .main .l a:visited { color:#000 }
+.main .l #sYear { display:inline-block; padding-right:10px;}
+.main .l a.reset { background-position:15px -234px; padding-left:30px }
+.main .l a.reset:hover { background-position:15px -254px; }
+.main .c_list { padding-top:5px; }
+.main .c_list li { height:20px; line-height:20px; padding-left:17px; margin:0 0 5px }
+.main .c_list li.on, .main .c_list li:hover, dd ul li:hover { background-color:#e9eff5; }
+/*.main .c_list a:link, .c_list a:visited { color#333333 }    dalong3 20120922*/
+.main .c_list a:hover { text-decoration:none; }
+.main .result { float:left; padding:10px 0px 10px 30px; width:589px; zoom:1; cursor:auto; position:relative; overflow:hidden; }/* xuehua1 modify 20130911 */
+.main .product_result { width:700px; padding-left:10px; margin-left:10px; }
+.main .sLeft { float:left; width:619px; }/* xuehua1 modify 20130911 */
+.main .sRight { float:right; width:235px; background-color:#fff; border:solid 1px #eaeaea; margin-top:-22px;}/* xuehua1 modify 20130911 */
+.main .zcad { float:left; width:210px; float:right; }
+
+.r_list { padding-bottom:15px; }
+.r_list dt { font-size:14px; font-weight:bold; color:#3d3d3d; padding-left:15px; padding-bottom: 10px;}
+.r_list dd, .r_list dd .highlighted  { line-height:22px; height:22px; font-weight:normal}
+.r_list dd a, .r_list dd .highlighted  { padding: 0 20px 0 15px; display:inline-block; }
+.r_list .selected a { background-position: 0 -94px; font-size:14px; }
+.r_list dd a:hover, .r_list dd .highlighted:hover { background-color:#e9eff5 }
+/*.r_list dt a:hover, dalong3 20120919*/
+.main .sidebar dl dt a:hover, .product_sidebar ul li:hover { background-color:#e9eff5 }/*dalong3*/
+.main .sidebar dt .cur_time { padding-left:17px; }
+/*.nav .wrap .main .l .sidebar dl dt a.cur:hover { background-color:#e9eff5 }/*dalong3*/
+.sidebar dl a span { width:97px } /*dalong3 20120919*/
+.r_list dd .del_h { background-position:15px -273px; padding-left:30px; }
+.r_list dd a.del_h:hover { background-position:15px -293px; padding-left:30px; }
+.r_list dd .highlighted { cursor:pointer; }
+.r_list.fgrey a, .r_list dd .highlighted  { width:205px; }
+
+.about_search{ background-color:#f3f5f8; padding:10px 0;}
+.about_search_box{ width:800px; padding-left:150px;}
+.about_search .Stabl01 th{font-size: 14px;font-weight: normal; line-height:30px; text-align: left; vertical-align: top;    white-space: nowrap;}
+.about_search .Stabl01 .tt{ padding:0 25px 0 0}
+.about_search .Stabl01 td{ width: 5%;}
+.about_search .Stabl01 a:hover{ text-decoration:none; color:#000099}
+
+.foot { text-align:center; padding:10px 0; color:#666666; background-color:#e1e1e1;font-size: 12px;}
+.foot a:link,.foot a:visited { color:#666; }
+.foot a:hover, .foot a:focus { text-decoration:none;color:#666; }
+
+/*20120823 added yan end*/
+
+
+a.amore { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_007.png) no-repeat 100% -88px; padding-right:15px; }
+a.amore2 { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_007.png) no-repeat 100% -49px; padding-right:15px; }
+.list-more { position:absolute; left:5px; top:18px; width:95px; z-index:10000; }
+.list-more .more-arr { background: url(http://www.sinaimg.cn/dy/search/images/sea_m_arr.png) no-repeat 10px 0; height:5px; overflow:hidden; position:relative; margin-bottom:-1px; zoom:1 }
+.ipt-01 { border:1px solid #60a9cc; padding:3px; line-height:20px; height:20px; width:426px; margin:0; float:left; font-size:14px; outline:none }
+.more-link { border:1px solid #687DCE; background:#fff; padding:3px 0 0 0; }
+.more-link a { display:block; margin:1px; line-height:24px; padding:0 0 0 13px; text-decoration:none; background:#fff; zoom:1; height:24px; overflow:hidden; }
+.more-link a:hover { background-color:#ECEEF9; text-decoration:none; color:#000099; }
+.more-link .line-dot { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_004.png) repeat-x; }
+.data-select { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_011.png) no-repeat 95% center; border:1px solid #8fcee0; padding:2px; height:14px; line-height:14px; width:80px; cursor:pointer; }
+.box-define { padding:0 0 0 7px; }
+.box-define p { padding:2px 0; }
+a.areset { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_012.png) no-repeat 0 center; padding:0 0 0 15px; }
+a.back { background:url(http://www.sinaimg.cn/dy/search/images/back.png) no-repeat 0 center; padding:0 0 0 12px; margin:0 0 0 -10px; }
+/* 脛脷脠脻露楼虏驴脤谩脢戮脟酶脫貌 mod_bar */
+.mod_bar { zoom:1; overflow:hidden; padding:0 0 5px; width:605px; margin:0 0 0 1px; } /*20120912 dalong3*/
+/* 脜脜脨貌路陆脢陆 */
+.sort_option { float: right; margin:0; width:160px; height:25px; line-height:25px; text-align:center; }/*2010/10/26*/
+.sort_option_product { margin:0; display:block; width:558px; text-align:right; height:25px; line-height:25px; z-index:9999; }
+.result .sort_option a { margin-left:0px; text-decoration:none; }
+.result .sort_option_product a { text-decoration:none; }
+.cur_sort { color:#000; padding-bottom:5px; background:url(http://www.sinaimg.cn/dy/search/images/arr.png) no-repeat 50% 100%;/*margin-left:10px;*/ }
+/* 掳麓脢卤录盲脜脜脨貌脤谩脢戮脨脜脧垄 */
+.tips_01 { position: relative; height:30px; line-height: 30px; background:#F2F6F9; margin: 0 18px 5px 0; padding:0 10px;border: 1px solid #e0ebf1; color: #000; }
+.tips_01 { /*width:529px; *width:547px;*/ }/*20120912 dalong3 */
+.tips_01 p em { color: #CC0033; }
+.tips_01 .close { color:#959ebe; position: absolute; right:6px; top:6px; line-height: 14px; font-family: arial; cursor: pointer; }
+/*  鹿脴卤脮脡赂脩隆脝梅掳麓脜楼虏禄虏脡脫脙 20120821  碌芦脥录脝卢脣脩脣梅脨猫脪陋脝么脫脙 20120912 --dalong3*/
+#sidebtn{background:url(images/side_arr3.png) no-repeat 0 0;display:block; position:absolute; width:11px;height:30px;overflow:hidden;text-indent:-999em;margin:120px 0 0 -31px;padding:0;outline:none;}
+a#sidebtn.sideclose{background-position:100% 0;margin-left:-30px; }
+a.sideopen{}
+#sidebtn:hover{background-position:0 -30px; }
+a#sidebtn.sideclose:hover{background-position:100% 100%;}
+
+.result h2 { line-height:24px; }
+.box-result { zoom:1; padding:0 0 0 10px; border: 1px solid #fff; position:relative;margin-bottom:8px; }/*20120823*/
+.box-result { /*width:569px; *width:579px;*/}/*20120910 about ie by dalong3*/
+.box-result .r-img { margin:5px 0; float:left; width:140px; position:relative; }
+.box-result .r-img .video { position:absolute; left:5px; bottom:5px; *bottom:9px;
+border:none; }
+a.a-img img { border:1px solid #ccc; padding:1px; }
+a.a-img:hover img { border-color:#69c; }
+.box-result .r-info { margin:5px 0; float:left; width:417px; }/* 20120823*/
+.box-result .r-info p { word-wrap:break-word; word-break:break-all; }
+.box-result .r-info p a:link,.box-result .r-info p a:visited{ color:#7F7FCC}/* 20120829 modify yan*/
+.box-result .r-info p a:hover{ color:#4949b5}/* 20120829 modify yan*/
+.box-result .r-info p .col3 { display:inline-block; width:22%; overflow:hidden; height:16px; }
+.box-result .r-info p .update { width:45% }
+.box-result .r-info2 { float:none; width:auto; }
+.box-result h2 { font:normal normal normal 16px/1.67em "arial"; }/*20120828 modify yan*/
+.box-result h2 .fgreen { font-size:12px; font-family:Arial; }/*20120828 modify yan*/
+a strong.highlight, a:link strong.highlight, a:visited strong.highlight, .highlight { color:#c00; font-weight:normal; }
+a strong.highlight { text-decoration:underline }
+.box-result .fblue { color:#7f7fcc; text-decoration:none; }/*20120828 modify yan*/
+/*.box-result .r-info h2 a {padding-right:10px;}*/
+.acmt { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_014.png) no-repeat 0 center; padding-left:12px; }
+.box-result a:visited { color:#800080; }
+.box-result a.fblue:visited { color:#7f7fcc; }/*20120828 modify yan*/
+.box-result a.fblue:hover, .box-result a.fblue:focus { color:#f00; text-decoration:none; }
+.box-result .r-info a { text-decoration:underline; }
+.box-result h2 a{text-decoration: underline;} 
+.box-result .time { white-space:nowrap; }
+.box-result span.zts { /*white-space:nowrap;*/}
+.product_box-result { width:579px; }
+img.noimg { vertical-align:middle; margin:0 2px; }
+.list-img { overflow:hidden; zoom:1; padding:5px 0 0 0; height:94px; }
+.list-img li { float:left; margin:0 5px 0 0; display:inline; }
+.list-img li img { display:block; margin:0 auto; float:left; }
+.list-img li.lastall { border:none; width:auto; padding:78px 0 0 15px; }
+.result .hover { background: #F3F7FA; border-color: #E0EBF1 }/*2010/11/22*/
+/* 路脰脪鲁 */
+
+.pagebox { font-size:12px; margin-bottom:10px; margin-top:5px; }
+.pagebox a, .pagebox a:visited, .pagebox a:link { border:1px solid #ddd; color:#2c98c7; cursor:pointer; height:21px; line-height:21px; padding:0 8px; text-decoration:none; display:inline-block; overflow:hidden; margin-right:4px; }
+.pagebox a:hover { background:#044580 none repeat scroll 0 0; color:#FFFFFF; border-color:#044580 }
+.pagebox span.pagebox_cur_page { color:#000; cursor:default; font-weight:bold; height:23px; line-height:23px; padding:0 8px; display:inline-block; overflow:hidden; margin-right:4px; }
+/*脰卤麓茂脟酶鹿芦脫脙css*/
+.box-nav { /*background:#F3F7FA url(http://www.sinaimg.cn/dy/search/images/dot_line.png) repeat-x 0 100%; */padding:0 0 0 10px; margin-bottom:25px; }
+/*鹿脡脝卤*/
+.box-finance {/*padding-left:15px;*/ }
+.box-finance .r-img { width:auto; margin:2px 5px 0 0; }
+.box-finance .r-info { width:auto; padding-left:15px; }
+.box-finance h2 { padding: 0 0 10px 0; }
+.box-finance .r-num { font-family:arial; padding:0px 0 7px; zoom:1; }
+.box-finance .r-num:after { content:"."; display:block; height:0; visibility:hidden; clear:both; }
+.box-finance .r-num h3 { font-size:24px; font-weight:normal; line-height:1.0; padding:4px 14px 2px 0; float:left; margin:0 10px 0 0; border-right:1px solid #999; }
+.fgreen { color:#090; }
+.box-finance .r-num p { line-height:14px; white-space:nowrap; }
+.box-finance .r-num .num_detail { float:left; padding:2px 0 2px 14px; }
+.box-finance .r-data { padding:4px 1em 2px 2px; border-top:1px solid #999999; clear:both; _float:left; }
+.f_table { border-spacing:0; border-collapse:collapse; }
+.f_table th, .f_table td { padding-right:10px; text-align:left }
+.f_table td { padding-left:2px }
+/* end of 鹿脡脝卤 */
+
+/*脤矛脝酶*/
+.box-weather {/*padding-left:10px;*/ }
+.box-weather h2 { padding:0 0 8px 0; }
+.box-weather .w-cnt { overflow:hidden; zoom:1; margin:0 0 0 0; }
+.box-weather .w-icon { vertical-align:middle; }
+.box-weather dl { float:left; width:174px; padding:0 0 0 0px; border-right:1px dotted #ccc; margin-right:15px; }
+.box-weather dl.last { border:none; margin-right:-25px; }
+.box-weather dd p { line-height:normal; padding:3px 0; }
+/* 麓贸脝卢 */
+/* 脢脫脝碌 */
+.nav_16 .r-info h2 .hd { background: url(http://www.sinaimg.cn/dy/search/images/hd.png) repeat-x; border:solid 1px #9FB6E4; color:#8697D9; padding:3px 6px }
+.nav_16 .hd a {
+color:color:#8697D9; text-decoration:none }
+.nav_16 .blue { color:#6699cc; }
+/*禄媒路脰掳帽*/
+.box-socre h2 { padding:0 0 5px 0; }
+.tbl-score { border-collapse:collapse; border:1px solid #CFE9EF; line-height:24px; font-family:arial; margin:5px 0; }
+.tbl-score th { background:#F1F4FC; padding-left:12px; text-align:left; border-right:1px solid #fff; }
+.tbl-score td { padding-left:12px; border-bottom:1px solid #CFE9EF; }
+.tbl-score td.tar { font-family:"arial"; padding:0 1em 0 0; }
+.more-keyword { font:normal normal normal 14px/1.67em "arial"; padding:10px; }
+.more-keyword td { padding:0 0 0 3px; line-height:26px; text-align:center; }
+.more-keyword td.item { padding: 0 25px; text-align:left; }
+.search-form-bot { padding:10px 0 20px;}
+.search-form-bot form { width:530px; padding-left:15px; }
+.sidebar { width:125px ;}
+.more-keyword a, .result a { text-decoration:none; }
+.from { color:#666; padding:10px 0 15px; }
+.from strong { font-weight:normal; color:#000 }
+.from strong a { text-decoration:none; color:#000; }
+/*赂么脨脨禄禄脡芦*/
+/*.zebra { background:#F3F7FA; padding:10px; }/* modified by  youhuata 0415 */
+.zebra { padding: 10px 0 10px 10px; } /* 20120913 dalong3 */
+.zebra .r-info { width:389px; }/* added by youhuata 0415 */
+.zebra .r-info2 { float:none; width:auto; }
+/* 脟脨禄禄脧脭脢戮路陆脢陆脥录卤锚 */
+.view_icon { width:18px; height:15px; vertical-align:-10%; background:url(http://www.sinaimg.cn/dy/search/images/thumbs.png) no-repeat 0 0; }
+#thumb { background-position: 0 0 }
+#list { background-position:100% 0 }
+#thumb.on { background-position: 0 100% }
+#list.on { background-position:100% 100% }
+/* 虏煤脝路驴芒 */
+.box-prd { padding:10px; margin-bottom:15px }
+.box-prd h2 { margin-top:-3px }
+.box-prd .r-img { width:102px; text-align:center; vertical-align:middle; height:102px; line-height:102px; border:solid 1px #ccc; background:#fff; position:relative; overflow:hidden; zoom:1; display:table; }
+.box-prd .r-img a { position:static; +position:absolute;
+top:50%; vertical-align:middle; display:table-cell; _display:inline; zoom:1; _blr:expression(this.onFocus=this.blur());
+outline-style:none; }
+/*.box-prd .r-img a:after { content:" "; font-size:1px; visibility:hidden }*/
+.box-prd .r-img a img { border:none; padding:0; vertical-align:middle; position:static; +position:relative;
+top:-50%; left:-50%; max-height:98px; max-width:98px; }
+.box-prd .r-info { float:none; margin-left:124px; width:auto; zoom:1 }
+.box-prd h3 { font-weight:normal; text-align:right; margin:-23px 0 0; font-size:12px }
+.box-prd h3 .price { color:#c00; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:normal; line-height:28px; }
+.box-prd h3 .noprice { line-height:28px; }
+/* 虏煤脝路驴芒 > 脠铆录镁 */
+.box-software .r-img { width:44px; height:44px }
+.box-software .r-img a { width:42px; height:42px; line-height:42px }
+.box-software .r-img a img { margin-top:6px }
+.box-software .r-info { margin-left:60px }
+/* 麓贸脥录脧脭脢戮 */
+.dN { display:none }
+.thumbnail { font-size:12px; overflow:hidden; height:16px; }
+.thumbnail_view .box-prd { float:left; width:181px; padding:0; vertical-align:top }
+.thumbnail_view .r-img { float:none; width:142px; height:142px; line-height:142px }
+.thumbnail_view .r-img img { max-height:140px; max-width:140px; /*  麓脣麓娄脫脨CSS驴脴脰脝脥录脝卢驴铆赂脽拢卢脠莽脢盲鲁枚脢卤驴脴脰脝鹿媒脥录脝卢鲁脽麓莽拢卢脭貌驴脡脪脭脳垄脢脥碌么脰脨虏驴路脰 */ _height:expression(this.scrollHeight>139?"140px":"auto");
+_width:expression(this.scrollWidth>139?"140px":"auto");
+/*  麓脣麓娄脫脨CSS驴脴脰脝脥录脝卢驴铆赂脽拢卢脠莽脢盲鲁枚脢卤驴脴脰脝鹿媒脥录脝卢鲁脽麓莽拢卢脭貌驴脡脪脭脳垄脢脥碌么脰脨虏驴路脰 IE6 脳篓脫脙 */
+    }
+.thumbnail_view .r-info { margin-left:0; padding:10px 0 0 0; zoom:1 }
+.thumbnail_view .r-info h3 { text-align:left; margin:0 }
+.thumbnail_view .r-info p.content { display:none }
+/* .thumbnail_view .r-info p span, .thumbnail_view .r-info h3 span { display:none } */
+.thumbnail_view .r-info p .thumbnail { display:block }
+.thumbnail_view .r-info p .thumbnail { display:block; width:auto }/* modified by youhua 2010-8-20 */
+/* 脦垄虏漏脧脿鹿脴 */
+.small_icon { background:url(http://simg.sinajs.cn/miniblog2style/images/common/sicon.gif) no-repeat 0 0; overflow:hidden; }
+.male, .man { background-position:0 -20px; width:9px; height:12px; }
+.female, .sicon_female { width:9px; height:12px; background-position:0 0; }
+.vip { background-position:-32px -20px; width:11px; height:10px; }
+/* 脰卤脥篓鲁碌 */
+.box-map .r-img { width:250px }
+.box-map .r-info { width:auto; margin-left:250px; float:none }
+/*脠脮脝脷脩隆脭帽*/
+#ui-datepicker-div { margin-top:5px; margin-left:-10px;/* 脨脼脮媒脝芦虏卯 */ margin-bottom:20px; font-size:12px; font-family:Arial, Helvetica, sans-serif; background:#fff; display:none; border:1px #9ca9cb solid; width:244px; padding:3px; color:#434343; overflow:hidden; z-index:99 }
+#ui-datepicker-div select { height:21px; color:#434343; cursor:pointer }
+.ui-datepicker-header { width:244px; height:25px; border-bottom:1px #fff solid; overflow:hidden; background:url(http://i3.sinaimg.cn/dy/home/090605/bg_news.png) no-repeat 0 0; position:relative }
+.ui-datepicker-header a.ui-state-disabled, .ui-datepicker-header a.ui-state-disabled:visited { background:#d8ebfe; cursor:default }
+.ui-datepicker-prev { width:30px; height:21px; overflow:hidden; cursor:pointer; position:absolute; top:2px; left:4px; display:block }
+.ui-datepicker-next { width:30px; height:21px; overflow:hidden; cursor:pointer; position:absolute; top:2px; right:5px; display:block }
+.ui-datepicker-title { text-align:center; width:175px; height:21px; position:absolute; top:2px; left:34px }
+.ui-datepicker-year, .ui-datepicker-month { width:60px }
+.ui-datepicker-calendar { width:245px; border-collapse:collapse; border-left:1px #fff solid }
+.ui-datepicker-calendar th, .ui-datepicker-calendar td { padding:0; background:#efefef; color:#686868; border-right:1px #fff solid; border-bottom:1px #fff solid; line-height:22px; text-align:center; cursor:default; font-weight:400 }
+.ui-datepicker-calendar th {/* 卤铆脥路脩霉脢陆脭脷麓脣 */ background:#e9e9e9 }
+.ui-datepicker-calendar th span { display:block }
+.ui-datepicker-calendar th.ui-datepicker-week-end, .ui-datepicker-calendar td.ui-datepicker-week-end {/* 脰脺脛漏碌楼脭陋赂帽脩霉脢陆脭脷麓脣 */ }
+.ui-datepicker-calendar td { font-size:10px }
+.ui-datepicker-calendar td.ui-state-disabled { color:#aaa }
+.ui-datepicker-calendar td a, .ui-datepicker-calendar td a:visited { display:block; cursor:pointer; color:#686868; text-decoration:none; text-align:center; border:1px #efefef solid; line-height:20px; height:/* IE6脭脷a碌脛display脦陋block脢卤拢卢卤脴脨毛脡猫脰脙height禄貌width脰脨碌脛脪禄赂枚虏脜脛脺脮媒脠路麓楼路垄hover脦卤脌脿 */20px }
+.ui-datepicker-calendar td a:hover, .ui-datepicker-calendar td a:active, .ui-datepicker-calendar td a:focus { background:#ec6e6b; color:#fff; border:1px #a40300 solid }
+.ui-datepicker-calendar td a.ui-state-active, .ui-datepicker-calendar td a.ui-state-active:visited {/* .ui-state-active卤脴脨毛脭脷.ui-state-highlight脰庐脟掳拢卢麓脣脩霉脢陆脫脙脫脷卤锚脳垄脰赂露篓碌脛碌芦虏禄脢脟陆帽脤矛碌脛脠脮脝脷 */ background:#fff; border-color:#efefef }
+.ui-datepicker-calendar td a.ui-state-active:hover, .ui-datepicker-calendar td a.ui-state-active:active, .ui-datepicker-calendar td a.ui-state-active:focus { color:#ca0e0a; text-decoration:underline; background:#fff; border-color:#efefef }
+.ui-datepicker-calendar td a.ui-state-highlight, .ui-datepicker-calendar td a.ui-state-highlight:visited { background:#ca0e0a; color:#fff; border:1px #a40300 solid }
+.ui-datepicker-calendar td a.ui-state-highlight:hover, .ui-datepicker-calendar td a.ui-state-highlight:active, .ui-datepicker-calendar td a.ui-state-highlight:focus { background:#ca0e0a; color:#ff0; text-decoration:underline; border:1px #a40300 solid }
+.ui-icon, .ui-datepicker-cover, .ui-datepicker-trigger { display:none }
+.pagenum { font-size:11px; font-family:verdana; }
+.noresult { margin-left:25px; clear:left; font-size:14px; padding-bottom:100px; }
+.noresult h4 { font-weight:normal; font-size:14px; line-height:30px; }
+.noresult h4 span { color:#cc0033; }
+.noresult p { font-size:14px; line-height:50px; }
+.noresult ul { }
+.noresult ul li { font-size:14px; line-height:20px; margin-left:30px; list-style-type:disc; }
+.more_switch { text-align:right; }
+.more_switch a.amore, .more_switch a.amore2 { background-image:url(http://www.sinaimg.cn/dy/search/images/sw.png); outline:none 0; text-decoration:none; }
+span.style1 { color:#f00; }
+/**/
+.gray_lv2 { color:#666 }
+.cur_area { margin:0 0 5px 30px; }
+.notice { background:url(http://www.sinaimg.cn/dy/search/images/notice.gif) no-repeat 0 50%; padding:2px 2px 2px 15px; }
+/* 脭脷陆谩鹿没脰脨脣脩 */
+#search_more { padding:0 20px; font-size:14px; height:300px; position:relative; z-index:2 }
+#search_more h2 { font-weight:bold; margin:-10px 0 18px; font-family:"脦垄脠铆脩脜潞脷", "潞脷脤氓"; font-size:18px; position:relative; z-index:20 }
+#search_more p { line-height:157% }
+.main .l li .type-more li { padding-left:7px; }/* added by youhuata 2010-03-26  16:33 */
+.type-more { zoom:1; overflow:hidden }
+/* range radio add pointer */
+label.label_range { cursor:pointer; }
+label.label_range input { cursor:pointer; }
+/* world cup 2010 */
+/* added by youhuata 100602 */
+.WorldCupTop { height:95px!important }
+.w_c_p { background: url(http://www.sinaimg.cn/dy/search/images/sjb_banner.png) no-repeat 100% 100%; height:95px }
+.world_cup_filter { position:absolute; margin:0; color:#cc0000; }
+.world_cup_filter a { color:#00f; text-decoration:none }
+.world_cup_filter a:hover { color:#f00; text-decoration:none; }
+.main .l li span { color:#000000 }
+/* 脨脗脦脜脣脩脣梅脧脗脡赂脩隆脝梅 脢脌陆莽卤颅卤锚脳垄脤脴脢芒脩脮脡芦 */
+.sidebar li.wc2010_a a { color:#f60; }
+.sidebar li.wc2010_a a:hover { color:#f00; }
+/* 脥录脝卢脣脩脣梅 掳麓脨搂鹿没赂脽脟氓卤锚脢露 */
+img.size_hd { /*vertical-align:text-top;*/ margin-left:2px; }
+/*脠楼碌么hover 脧脗禄庐脧脽*/
+.sidebar a:hover, .sidebar a:focus { text-decoration:none; }
+/* 脳贸虏脿脡赂脩隆脝梅脰赂露篓脠脮脝脷路露脦搂 */
+.cdatehost { text-align:right; margin-right:2px; }
+.cdatehost p { padding:2px 0 0 0; }
+.cdatehost .btns { text-align:center; border-width:0; padding:20px }
+.cdatehost .btns input { font-size:14px }
+.cdatehost label { margin-right:2em; vertical-align:middle }
+.cdatehost .inp_txt { border:solid 1px #9EB5E4; width:90px; padding:3px 4px; height:13px; }
+.cdatehost select { width:90px; margin-right:16px }
+/*2010/11/3begin*/
+.mod_thumb { float: left; width: 140px; text-align: center; }
+.mod_thumb table { margin: auto; text-align: center; }
+.mod_thumb .video { text-align: left; }
+.mod_thumb .video a { position: relative; display: block; margin: -25px 0 0 5px; }
+.mod_thumb .btn_play { display: inline-block; width: 73px; height: 25px; background: url(http://www.sinaimg.cn/dy/search/images/search_btn_play.png) 0 0 no-repeat; }
+#search_ft_02 { display: none; }
+.dropselectbox { display:inline; }
+.dropdown { outline:none; display:inline-block; vertical-align: middle; *display:inline;
+zoom:1; background:#dee3fa; }
+.dropdown * { -moz-user-select:none; }
+.dropdown h4 { cursor:pointer; text-indent:5px; height:24px; padding-right: 5px; font:12px/24px '脣脦脤氓', sans-serif; border:solid 1px #667bce; background:url(http://www.sinaimg.cn/dy/search/images/search_slt_arr.png) no-repeat right center; }
+.dropdown h4.over { border-color:#667bce; background-image:url(http://www.sinaimg.cn/dy/search/images/search_slt_arr.png); }
+.dropdown h4.current { border-color:#667bce; }
+.dropdown div { display:block;}
+.dropdown ul { position:absolute; display:none; margin:0; padding:0; float:left; clear:both; border:1px solid #667bce; background:#FFF; }
+.dropdown ul li { text-indent:5px; display:block; cursor:default; background:#FFF; height:19px; }
+.dropdown ul li.over { background:#39f; color:#FFF; }
+/*2010/11/3end*/
+
+.icon_arr { padding-right: 10px; background: url(http://www.sinaimg.cn/dy/search/images/search3.png) right center no-repeat; }
+
+.ipt-00 { border:1px solid #898989; padding:3px 5px; line-height:24px; height:24px; font-size:14px; width:400px; margin:0 10px 0 0; }
+.filterzz {height: 24px;padding: 10px 0;text-align: center;}
+.filterzz a:link, .filterzz a:visited {background: none repeat scroll 0 0 #F6F6F6;border: 1px solid #EFEFEF;color: #6699CC;text-decoration: none;}
+.filterzz a {background: none repeat scroll 0 0 #F6F6F6;border: 1px solid #EFEFEF;color: #6699CC;display: inline-block;height: 22px;line-height: 22px;margin: 0 auto;padding: 0 75px;}
+.foot_tip{padding:10px 0;color:#777;margin:10px 0 5px 0;border-top: dashed 1px #999;}
+
+.result_s { display:inline;float:left;width:124px;margin:30px 50px 0px 20px;}
+.result_s .result_s_pic { display:block;position:relative;padding:1px;border:1px solid #dcdcdc;line-height:0px;font-size:0px;zoom:1;}
+.result_s .result_s_pic span { position:absolute;left:1px;bottom:1px;width:120px;height:18px;line-height:18px;font-size:12px;color:white;text-align:right;}
+.result_s .result_s_marker { background-color:black;opacity:0.6;filter:alpha(opacity=60);}
+.result_s .result_s_pic .result_s_length { width:114px;padding-right:6px;}
+.result_s .result_s_play { display:none;position:absolute;left:50%;top:50%;margin-left:-16px;margin-top:-20px;width:32px;height:32px;background:url(images/result_play_btn.png);_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='images/result_play_btn.png');}
+.result_s .result_s_pic:hover .result_s_play { display:block;}
+.result_s p { color:#666666;}
+.result_s .result_key { color:red;}
+.result_s .result_s_title { height:36px;line-height:18px;margin:5px 0;}
+
+</style>
+
+<script type="text/javascript" src="/js/global.v2.js"></script>
+<script type="text/javascript" src="http://www.sinaimg.cn/jslib/jquery-1.4.2.min.js"></script>
+
+<!-- suggest by liusong@20110105 $-->
+<script type="text/javascript" src="js/jquery.suggest.js"></script>
+<style type="text/css">
+	.ac_results {
+			width: 384px;
+			border: 1px solid gray;
+		background-color: white;
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		overflow: hidden;
+		position: absolute;
+		z-index: 10000;
+		display: none;
+	}
+	
+	.ac_results li {
+		padding: 2px 5px;
+		white-space: nowrap;
+		color: #333;
+		text-align: left;
+		font-size:14px;
+		height:20px;
+		line-height:20px;
+			}
+	
+	.ac_over {
+		cursor: pointer;
+		background-color: #d9e1f6;
+	}
+	</style>
+<script type="text/javascript">
+function bindSuggest(obj) {
+		var url = "iframe/suggest/index.php";
+	var selector = obj!=null ? ('#'+obj.target.id) : 'a.selected';
+	url += $(selector).attr('id') == 'tab08' ? '?type=intraproducts' : '';
+		$(".ipt-01").filter(function(){return $(this).parents('div.search-ipt')[0].style.display=='block';}).add($(".ipt-02:first")).suggest(url,{
+		minchars: 1,
+		delay: 0,
+		onSelect: function() {$(this).parents('form').submit();}
+	});
+	}
+$(function() {
+	$('a').filter(function(){return this.id.match(/tab0\d+/);}).each(function(){$(this).click(bindSuggest);});
+	bindSuggest(null);
+});
+</script>
+
+<script language="javascript">
+//2010/11/3 begin
+(function($) {
+	$.fn.extend({
+		sSelect: function() {
+			var self=this;
+			return this.each(function(i, obj) {
+				var selectId = (this.name || this.id) + '__jQSelect' + i || '__jQSelect' + i;
+				if (obj.style.display != 'none' && $(this).parents()[0].id.indexOf('__jQSelect') < 0) {
+					var tabindex = this.tabIndex || 0;
+					$(this).before("<div class='dropdown' id=" + selectId + " tabIndex=" + tabindex + "></div>").prependTo($("#" + selectId));
+					var selectZindex = $(this).css('z-index'),
+					selectIndex = $('#' + selectId + ' option').index($('#' + selectId + ' option:selected')[0]);
+					$('#' + selectId).append('<div class="dropselectbox"><h4></h4><ul></ul></div>');
+					$('#' + selectId + ' h4').empty().append($('#' + selectId + ' option:selected').text());
+					
+					var w = self.outerWidth();
+					$('#' + selectId + ' h4').css({
+						width: w
+					});
+					var selectUlwidth = w + parseInt($('#' + selectId + ' h4').css("padding-left")) + parseInt($('#' + selectId + ' h4').css("padding-right"));
+					$('#' + selectId + ' ul').css({
+						width: selectUlwidth + 'px'
+					});
+					$('#' + selectId + ' select').hide();
+					$('#' + selectId + ' div').hover(function() {
+						$('#' + selectId + ' h4').addClass("over");
+					},
+					function() {
+						$('#' + selectId + ' h4').removeClass("over");
+					});
+					$('#' + selectId)
+					.bind("focus", 
+					function() {
+						$.fn.clearSelectMenu(selectId, selectZindex);
+						$('#' + selectId + ' h4').addClass("over");
+					})
+					.bind("click", 
+					function(e) {
+						if ($('#' + selectId + ' ul').css("display") == 'block') {
+							$.fn.clearSelectMenu(selectId, selectZindex);
+							return false;
+						} else {
+							$('#' + selectId + ' h4').addClass("current");
+							$('#' + selectId + ' ul').show();
+							var selectZindex = $(this).css('z-index');
+							if ($.browser.msie || $.browser.opera) {
+								$('.dropdown').css({
+									'position': 'relative',
+									'z-index': '0'
+								});
+							}
+							$('#' + selectId).css({
+								'position': 'relative',
+								'z-index': '999'
+							});
+							$.fn.setSelectValue(selectId);
+							selectIndex = $('#' + selectId + ' li').index($('.selectedli')[0]);
+							var windowspace = ($(window).scrollTop() + document.documentElement.clientHeight) - $(this).offset().top;
+							var ulspace = $('#' + selectId + ' ul').outerHeight(true);
+							var windowspace2 = $(this).offset().top - $(window).scrollTop() - ulspace;
+							windowspace < ulspace && windowspace2 > 0 ? $('#' + selectId + ' ul').css({
+								top: -ulspace
+							}) : $('#' + selectId + ' ul').css({
+								top: $('#' + selectId + ' h4').outerHeight(true)
+							});
+							$(window).scroll(function() {
+								windowspace = ($(window).scrollTop() + document.documentElement.clientHeight) - $('#' + selectId).offset().top;
+								windowspace < ulspace ? $('#' + selectId + ' ul').css({
+									top: -ulspace
+								}) : $('#' + selectId + ' ul').css({
+									top: $('#' + selectId + ' h4').outerHeight(true)
+								});
+
+							});
+							$('#' + selectId + ' li').click(function(e) {
+								selectIndex = $('#' + selectId + ' li').index(this);
+								$.fn.keyDown(selectId, selectIndex);
+								$('#' + selectId + ' h4').empty().append($('#' + selectId + ' option:selected').text());
+								$.fn.clearSelectMenu(selectId, selectZindex);
+								e.stopPropagation();
+								e.cancelbubble = true;
+
+							})
+							.hover(
+							function() {
+								$('#' + selectId + ' li').removeClass("over");
+								$(this).addClass("over").addClass("selectedli");
+								selectIndex = $('#' + selectId + ' li').index(this);
+
+							},
+							function() {
+								$(this).removeClass("over");
+
+							}
+							);
+
+						};
+						e.stopPropagation();
+
+					})
+					.bind('mousewheel', 
+					function(e, delta) {
+						e.preventDefault();
+						var mousewheel = {
+							$obj: $('#' + selectId + ' li.over'),
+							$slength: $('#' + selectId + ' option').length,
+							mup: function() {
+								this.$obj.removeClass("over");
+								selectIndex == 0 ? selectIndex = 0: selectIndex--;
+								$.fn.keyDown(selectId, selectIndex, true);
+
+							},
+							mdown: function() {
+								this.$obj.removeClass("over");
+								selectIndex == (this.$slength - 1) ? selectIndex = this.$slength - 1: selectIndex++;
+								$.fn.keyDown(selectId, selectIndex, true);
+
+							}
+
+						}
+						delta > 0 ? mousewheel.mup() : mousewheel.mdown();
+
+					})
+					.bind("dblclick", 
+					function() {
+						$.fn.clearSelectMenu(selectId, selectZindex);
+						return false;
+
+					})
+					.bind("keydown", 
+					function(e) {
+						$(this).bind('keydown', 
+						function(e) {
+							if (e.keyCode == 40 || e.keyCode == 38 || e.keyCode == 35 || e.keyCode == 36) {
+								return false;
+
+							}
+
+						});
+						var $obj = $('#' + selectId + ' li.over'),
+						$slength = $('#' + selectId + ' option').length;
+						var noChange = true;
+						switch (e.keyCode) {
+							case 9:
+							return true;
+							break;
+							case 13:
+							//enter
+							$.fn.clearSelectMenu(selectId, selectZindex);
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 27:
+							//esc
+							$.fn.clearSelectMenu(selectId, selectZindex);
+							break;
+							case 33:
+							$obj.removeClass("over");
+							selectIndex = 0;
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 34:
+							$obj.removeClass("over");
+							selectIndex = ($slength - 1);
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 35:
+							$obj.removeClass("over");
+							selectIndex = ($slength - 1);
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 36:
+							$obj.removeClass("over");
+							selectIndex = 0;
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 38:
+							//up
+							e.preventDefault();
+							$obj.removeClass("over");
+							selectIndex == 0 ? selectIndex = 0: selectIndex--;
+							$.fn.keyDown(selectId, selectIndex, noChange);
+							break;
+							case 40:
+							//down
+							e.preventDefault();
+							$obj.removeClass("over");
+							selectIndex == ($slength - 1) ? selectIndex = $slength - 1: selectIndex++;
+							$.fn.keyDown(selectId, selectIndex, noChange);
+							break;
+							default:
+							e.preventDefault();
+							break;
+
+						};
+
+					})
+					.bind("blur", 
+					function() {
+						$.fn.clearSelectMenu(selectId, selectZindex);
+						return false;
+
+					})
+					.bind("selectstart", 
+					function() {
+						return false;
+
+					});
+
+				} else if ($(this).parents()[0].id.indexOf('__jQSelect') > 0) {
+					selectId = $(this).parents()[0].id;
+					$.fn.setSelectValue(selectId);
+					var w = self.outerWidth();
+					$('#' + selectId + ' h4').css({
+						width: w
+					});
+					var selectUlwidth = w + parseInt($('#' + selectId + ' h4').css("padding-left")) + parseInt($('#' + selectId + ' h4').css("padding-right"));
+					$('#' + selectId + ' ul').css({
+						width: selectUlwidth + 'px'
+					});
+					if (this.style.display != 'none') {
+						$(this).hide();
+					}
+
+				}
+			})
+		},
+		clearSelectMenu: function(selectId, selectZindex) {
+			if (selectId != undefined) {
+				selectZindex = selectZindex || '999';
+				$('#' + selectId + ' ul').empty().hide();
+				$('#' + selectId + ' h4').removeClass("over").removeClass("current");
+				$('#' + selectId).css({
+					'z-index': selectZindex
+				});
+			}
+		},
+		setSelectValue: function(sID) {
+			var content = [];
+			$.each($('#' + sID + ' option'), 
+			function(i) {
+				content.push("<li class='FixSelectBrowser'>" + $(this).text() + "</li>");
+			});
+			content = content.join('');
+			$('#' + sID + ' ul').html(content);
+			$('#' + sID + ' h4').html($('#' + sID + ' option:selected').text());
+			$('#' + sID + ' li').eq($('#' + sID + ' select')[0].selectedIndex).addClass("over").addClass("selectedli");
+		},
+		keyDown: function(sID, selectIndex, noChange) {
+			var $obj = $('#' + sID + ' select');
+			$obj[0].selectedIndex = selectIndex;
+			if (!noChange) {
+				$obj.change();
+			};
+			$('#' + sID + ' li:eq(' + selectIndex + ')').toggleClass("over");
+			$('#' + sID + ' h4').html($('#' + sID + ' option:selected').text());
+		}
+	});
+	var types = ['DOMMouseScroll', 'mousewheel'];
+	$.event.special.mousewheel = {
+		setup: function() {
+			if (this.addEventListener)
+			for (var i = types.length; i;)
+			this.addEventListener(types[--i], handler, false);
+			else
+			this.onmousewheel = handler;
+		},
+		teardown: function() {
+			if (this.removeEventListener)
+			for (var i = types.length; i;)
+			this.removeEventListener(types[--i], handler, false);
+			else
+			this.onmousewheel = null;
+		}
+	};
+	$.fn.extend({
+		mousewheel: function(fn) {
+			return fn ? this.bind("mousewheel", fn) : this.trigger("mousewheel");
+		},
+		unmousewheel: function(fn) {
+			return this.unbind("mousewheel", fn);
+		}
+	});
+	function handler(event) {
+		var args = [].slice.call(arguments, 1),
+		delta = 0,
+		returnValue = true;
+		event = $.event.fix(event || window.event);
+		event.type = "mousewheel";
+		if (event.wheelDelta) delta = event.wheelDelta / 120;
+		if (event.detail) delta = -event.detail / 3;
+		args.unshift(event, delta);
+		return $.event.handle.apply(this, args);
+	}
+})(jQuery);
+//2010/11/3 end
+</script>
+
+<script type="text/javascript">
+(function(){
+if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+
+//style
+var css = 'a{text-decoration:none!important}';
+var style = document.createElement('style');
+document.getElementsByTagName('head')[0].appendChild(style);
+style.textContent = css;
+
+//进入式
+document.addEventListener('mousedown',function(e){
+	var ele = e.target;
+	do{
+		if(ele.tagName == 'A'){
+			ele.target = '_self';
+			return;
+		};
+		if(ele.tagName == 'DIV'){return};
+	}while(ele = ele.parentNode);
+	},false);
+})();
+</script>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+//ipad不需要背景变色
+if( !(/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)) ){
+	$(document).ready(function () {
+		$('.box-result').hover(
+			function () {
+				$(this).addClass("hover");
+			},
+			function () {
+				$(this).removeClass("hover");
+			}
+		);
+	});
+}
+//--><!]]>
+</script>
+<style type="text/css">
+.top2 .search-form .ipt-02 {margin:0 3px 0 0}
+.sidebar { width:125px ;border-right: 1px solid rgb(200, 213, 240);}
+</style>  
+
+</head>
+<body>
+<div class="topWrap">
+<div style="position:relative;z-index:10000" id="top_column">
+	<div class="top clearfix">
+		<div class="l">
+		<div class="l">
+
+                 <h1 class="l"><a href="/?t=news"><img src="images/newLogo.jpg" alt="新浪搜索"></a></h1>
+        
+
+          <div class="navType l">
+			<a rel="/?q=[keyword]&c=news" href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&c=news" class="selected" id="tab02" suda-uatrack="key=SearchHeader&value=news">新闻</a>
+			<a rel="/?q=[keyword]&c=zt" href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&c=zt&range=title" id="tab02" suda-uatrack="key=SearchHeader&value=topic">专题</a>
+			<a rel="/?q=[keyword]&c=blog" href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&c=blog" id="tab03" suda-uatrack="key=SearchHeader&value=blog">博客</a>
+			<a rel="http://s.weibo.com/weibo/[keyword]" href="http://s.weibo.com/weibo/%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C" target="_blank" id="tab04" suda-uatrack="key=SearchHeader&value=weibo">微博</a>
+			
+			<a rel="/?q=[keyword]&c=img" href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&c=img" id="tab07" suda-uatrack="key=SearchHeader&value=pic">图片</a>
+			
+			
+			<a rel="/?q=[keyword]&c=video" href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&c=video&range=title" id="tab02">视频</a>
+			<!-- <a rel="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&q=[keyword]&name=%CD%F2%BF%C6A&t=keyword&c=all&k=%CD%F2%BF%C6A&range=all&col=1_7&from=channel" href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&q=%B9%C9%CA%D0%CF%C2%B5%F8&name=%CD%F2%BF%C6A&t=keyword&c=all&k=%CD%F2%BF%C6A&range=all&col=1_7&from=channel" target="_blank" id="tab05" suda-uatrack="key=SearchHeader&value=gupiao">股票</a> -->
+			<!-- <a rel="http://music.sina.com.cn/yueku/search/s.php?t=all&k=[keyword]" href="http://music.sina.com.cn/yueku/search/s.php?t=all&k=%B9%C9%CA%D0%CF%C2%B5%F8" target="_blank" id="tab06" suda-uatrack="key=SearchHeader&value=music">音乐</a>
+			<a rel="/?q=[keyword]&c=product" href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&c=product" id="tab08" suda-uatrack="key=SearchHeader&value=product">产品库</a>
+			<a href="zl/search.php?q=%B9%C9%CA%D0%CF%C2%B5%F8" title="专栏搜索" target="_BLANK">专栏</a> -->
+			<a rel="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&q=[keyword]&name=s&t=keyword&c=all&k=s&range=all&col=1_7&from=channel" href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&q=%B9%C9%CA%D0%CF%C2%B5%F8&name=s&t=keyword&c=all&k=s&range=all&col=1_7&from=channel" target="_blank" id="tab04" suda-uatrack="key=SearchHeader&value=weibo">股票</a>
+			          	<a href="?c=more" id="topamore"  suda-uatrack="key=SearchHeader&value=more">更多>></a>
+          </div>
+       	</div>
+	</div>
+		<div class="r">
+						<a href="http://www.sina.com.cn" suda-uatrack="key=SearchHeader&amp;value=sinahomepage">新浪首页</a>
+		</div>
+
+
+                <!--0422 login-->
+        <div class="login-frame">
+            <a href="javascript:;" class="login-button" id="JS_Login_Btn"><span style="cursor:pointer;">登录</span></a>
+            <div class="logined-wrap fl" id="JS_Logined_Wrap"></div>
+            <div id="JS_Login_Layer" style="display:none"></div>
+        </div>
+        <!--0422 login-->
+        
+
+	</div>
+	<div class="list-more" id="topcmore" style="left:292px;top:26px;display:none;"><!-- left:485px -->
+		<div class="more-arr"></div>
+		<div class="more-link">
+			<a rel="http://biz.finance.sina.com.cn/suggest/lookup_n.php?suggest_radio=lookupn&country=&q=[keyword]&t=keyword&c=all&k=[keyword]&name=[keyword]" href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?suggest_radio=lookupn&country=&q=%B9%C9%CA%D0%CF%C2%B5%F8&t=keyword&c=all&k=%B9%C9%CA%D0%CF%C2%B5%F8&name=%B9%C9%CA%D0%CF%C2%B5%F8" target="_blank">股票</a>
+			<a rel="http://php.weather.sina.com.cn/search.php?city=[keyword]&c=1&f=1&dpc=1" href="http://php.weather.sina.com.cn/search.php?city=%B9%C9%CA%D0%CF%C2%B5%F8&c=1&f=1&dpc=1" target="_blank">天气</a>
+			<a rel="http://map.sina.com.cn/#city=北京!type=0!cr=12,11639794,3990817!k=[keyword]!strt=0!snum=10" href="http://map.sina.com.cn/#city=北京!type=0!cr=12,11639794,3990817!k=股市下跌!strt=0!snum=10" target="_blank">地图</a>
+			<a rel="http://yingxun.ent.sina.com.cn/search_key.php?keyword=[keyword]" href="http://yingxun.ent.sina.com.cn/search_key.php?keyword=%B9%C9%CA%D0%CF%C2%B5%F8" target="_blank">影讯</a>
+			<a rel="http://data.ent.sina.com.cn/show/search.php?keyword=[keyword]" href="http://data.ent.sina.com.cn/show/search.php?keyword=%B9%C9%CA%D0%CF%C2%B5%F8" target="_blank">演出</a>
+			<a href="http://bbs.sina.com.cn/" target="_blank" class="line-dot">论坛</a>
+			<a href="?c=more" class="line-dot">更多&gt;&gt;</a>
+		</div>
+	</div>
+</div>    <div class="top2">
+        <!--             <h1 class="l"><a href="/?t=news"><img src="images/logo_new_yan.png" alt="新浪搜索" /></a></h1>
+         -->
+        <div class="search-form l">
+            <form method="get" action="/" onsubmit="return submit_form(this)">
+                <input type="text" name="q" autocomplete="off" maxlength="100" value="股市下跌" class="ipt-02" onblur="set_top_column_href(this.value);" id="keyword" />
+                                    <input type="submit" value="" class="ipt-03" hidefocus="true" suda-uatrack="key=SearchHeader&value=searchnews" />
+                
+                <a href="/?c=adv&q=%B9%C9%CA%D0%CF%C2%B5%F8" suda-uatrack="key=SearchHeader&value=advancedsearch">高级搜索</a>
+                <p>
+                                 <label class="label_range" for="range1_all">
+                    <input type="radio" onclick="news_range_search_base_click(this);" id="range1_all"     checked="checked" name="range" value="all" >新闻全文                </label>
+                                 <label class="label_range" for="range1_title">
+                    <input type="radio" onclick="news_range_search_base_click(this);" id="range1_title"   suda-uatrack="key=SearchHeader&value=title" name="range" value="title" >新闻标题                </label>
+                                </p>
+               
+                
+                <input name="c" type="hidden" value="news" />
+                <input name="sort" type="hidden" value="time" />
+				                
+                            </form>
+        </div>
+    </div>
+</div>
+<style type="text/css">
+
+body{font-family: "Arial","Microsoft YaHei","微软雅黑";}/*0425*/
+.r-info-blog .content{font-size: 14px;line-height: 20px;padding-top: 5px;padding-bottom: 10px;}/*0425*/
+.box-result .r-info{width: 545px}/*0530*/
+.box-result .r-info2{width: 670px}/*0605*/
+.box-result .r-info a{text-decoration: none!important;}/*0425*/
+.box-result .r-info-blog-tit a { text-decoration:none!important;}/*0528*/
+input.ipt-03{background: url(/images/0422_zyc_search_newIcons.png) 0 -233px no-repeat;}/*0425*/
+form input.ipt-03:hover, input.ipt-03.hover{background-position: -96px -233px}
+.r-info-blog .fgray{color: #616161;padding-left: 10px;}/*0528*/
+.box-result .r-info p a:link, .box-result .r-info p a:visited{color: #000099}/*0428*/
+.box-result .r-info p a:hover{color: #ff0000}/*0428*/
+/*0422 zyc*/
+/*filter*/
+.search_bar{width: 730px;padding-left: 30px;padding-bottom: 8px;}
+.search_type{float: left;}
+.search_type a{float: left;padding: 0 10px;height: 22px;line-height: 22px;color: #000099;}
+.search_type a.cur{color: #fff;background: #4141aa;}
+.search_filter{float: right;height: 22px;line-height: 22px;}
+.search_filter .left{float: left;border-right: 1px solid #bcbcbc;padding-right: 15px;}
+.search_filter .right{float: left;padding-left: 15px;}
+.search_filter span,.search_filter a{padding: 0 5px;font-size: 12px;}
+.search_filter .cur{color: #5f5f5f;}
+
+/*result*/
+.nav{width: 100%;margin-left: 0;}
+.r-info-pic{float: left;margin-right: 10px;padding-top: 10px;_height:expression((this.offsetHeight)>260?"250px":"auto");max-height: 240px;overflow: hidden;}/*0528*/
+.box-result .r-img{_height:expression((this.offsetHeight)>240?"240px":"auto");max-height: 240px;overflow: hidden;}
+.r-info-pic img{border: 1px solid #e8e8e8;}
+.box-result .r-info-blog{width: 530px;}/*0528*/
+.box-result .r-info-blog-full{width: 660px;}/*0528*/
+.box-result h2{font:normal normal normal 16px/1.67em "Arial","Microsoft YaHei","微软雅黑"}/*0428*/
+.main .result{width: 690px;}/*0430*/
+.box-result{border-bottom: 1px solid #f2f2f2;padding: 10px 0;margin-bottom: 0;}/*0428*/
+.r-info-blog-tit .rib-author{color: #2c2c2c;}/*0528*/
+.r-info-blog-tit .rib-author:visited{color: #2c2c2c;}/*0528*/
+.r-info-blog-tit .rib-author:hover{color: #cc0033;}/*0528*/
+.main .sRight{margin-top: 15px;}
+.result_num{padding: 5px 0;color: #666;}
+
+.result-top{border-bottom: 1px solid #d9d9f0;border-top: 1px solid #d9d9f0;margin-bottom: 0;}
+.so_userinfo{border-bottom:1px solid #f2f2f2;padding: 20px 0;}
+.result-top .so_userinfo{border-bottom: 0px;margin-bottom: 0;padding: 13px 0;}/*0428*/
+.info_txt .it_p span{padding: 5px 0 2px;display: block;}/*0428*/
+.info_txt ul{margin-top: 8px;}/*0428*/
+.info_txt h4{font-size: 16px;}/*0428*/
+.blog_rss{background: url(/images/0422_zyc_search_newIcons.png) 0 -93px no-repeat;display: block;text-indent: -999em;width: 58px;height: 18px;}
+/*右侧rss,his,hotsearch*/
+.main .sRight{border: 0;}
+.blk_right{border-left: 1px solid #e9e9e9;padding-left: 10px;}
+.blk_myRss{padding: 10px 0;border-bottom: 1px solid #e9e9e9;}
+
+.br_title h4{font-size: 14px;color: #000;float: left;}
+.br_title .rss_rssCur{background: url(/images/0422_zyc_search_newIcons.png) 0 -63px no-repeat;padding-left: 15px;font-size: 12px;float: right;color: #4141aa;}
+.blk_myRss ul{margin-top: 10px;}
+.ul_right li{height: 20px;line-height: 20px;position: relative;padding-left: 10px;margin-bottom: 5px;}
+.ul_right li .delItem{display: none;background: url(/images/0422_zyc_search_newIcons.png) 0 0 no-repeat;width: 21px;height: 20px;position: absolute;right: 0;top:0;text-indent: -999em;border-left: 1px solid #fff;}
+.ul_right li .delItem:hover{background-position: -29px 0;}
+.ul_right li.cur{background: #e9eff5}
+.ul_right .cur .delItem{display: block;}
+.blk_myHis{padding: 10px 0;border-bottom: 1px solid #e9e9e9;}
+.blk_myHis ul{margin-top: 10px;}
+.blk_myHis .his_fold{background: url(/images/0422_zyc_search_newIcons.png) 0 -32px no-repeat;width: 16px;height: 14px;text-indent: -999em;float: left;margin-left: 5px;margin-top: 3px;overflow: hidden;}
+.blk_myHis .his_fold:hover{background-position: -29px -32px;}
+.blk_myHis .his_unfold{background-position: 0 -48px;}
+.blk_myHis .his_unfold:hover{background-position: -29px -48px;}
+.blk_myHis .his_clear{float: right;color: #929292;}
+.blk_hotSearch{padding: 10px 0;border-bottom: 1px solid #e9e9e9;}
+.ul_hotSearch{margin-top: 12px;}
+.ul_hotSearch span{padding-right: 10px;display: inline-block;width: 18px;text-align: center;}
+.ul_hotSearch .top3{color: #cc0033;font-size: 12px;}
+
+.filterzz a{width: 100%;padding: 0;}
+/*0630 zyc*/
+.ul_right li .rssItem{display: block;width: 190px;overflow: hidden;text-overflow:ellipsis;white-space: nowrap;}
+/*login*/
+.login-frame{float: right;line-height: 34px;height: 34px;margin-top: 13px;position: relative;}
+.login-frame a:link,.login-frame a:visited{color:#2c2c2c;}
+.login-frame .login-button{padding-left:4px;padding-right: 10px;}
+.login-frame .logined-wrap{float:left;}
+.login-frame .top-nr-welcome{display: block;padding-top: 4px;}
+.login-frame .username{padding-right:5px;}
+.login-frame .logout{padding-right:15px;}
+.login-frame a.username,.login-frame a.username:visited{color:#6c6c6c;}
+.login-frame a.login-button:hover,.login-frame a.username:hover,.login-frame a.logout:hover{color:#ab010e;text-decoration:none;}
+
+.login-frame a.username{display: block;background: url(/images/0422_zyc_search_newIcons.png) right -144px no-repeat;padding-right: 20px;height: 24px;line-height: 24px;border: 1px solid #f6f6f6;text-align: center;padding-left: 20px;color: #4141aa;width: 70px;white-space:nowrap; text-overflow:ellipsis; overflow:hidden}
+.login-frame a.username:hover{background-color: #fff;border: 1px solid #ededed;}
+.login-frame .logout{display: block;text-align: center;border: 1px solid #ededed;background:#f6f6f6;border-top:0px;height: 24px;line-height: 24px;padding-right: 20px;padding-left: 20px;width: 70px;position: absolute;}
+.login-frame .logout:hover{background: #fff;}
+.login-frame-on a.username{background-color: #fff;border: 1px solid #ededed;color: #4141aa;}
+.login-frame-on a.username:visited{color: #4141aa;}
+.login-frame-on .logout{color: #4141aa;}
+.login-frame-on .logout:visited{color: #4141aa;}
+.top{width: 1000px;padding-right: 0px;}
+.top2{zoom:1;}
+.top .r{margin-top: 13px;}
+.r a:link, .r a:visited{color: #3d3d3d;}
+.nav_inner{width: 730px;padding-left: 30px;}
+.nav .r_v2{margin-top: 0!important;}
+</style>
+<div class="nav clearfix">
+    <div class='nav_inner clearfix'>
+                
+            <div class='search_type clearfix'>
+                <a href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&range=all&c=news&sort=time&col=&source=&from=&country=&size=&time=&a=&dpc=1&t="  class="cur"   >全部</a>
+                <a href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&range=all&c=news&sort=time&col=&source=&from=&country=&size=&time=&a=&dpc=1&t=3_5_6" suda-uatrack="key=SearchBody&value=includepic"  >含图片</a>
+                <a href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&range=all&c=news&sort=time&col=&source=&from=&country=&size=&time=&a=&dpc=1&t=2" suda-uatrack="key=SearchBody&value=includevideo"  >含视频</a>
+            </div>
+            <div class="r_v2"> 
+                                 
+                 
+                   按时间 
+                                  
+                                | 
+                                    <a href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&range=all&c=news&sort=rel&col=&source=&from=&country=&size=&time=&a=&dpc=1" suda-uatrack="key=SearchBody&value=correlation">
+                    按相关度</a> 
+                                  
+                                | 
+                                    <a href="/?q=%B9%C9%CA%D0%CF%C2%B5%F8&range=all&c=news&sort=count&col=&source=&from=&country=&size=&time=&a=&dpc=1" suda-uatrack="key=SearchBody&value=clicksort">
+                    按点击量</a> 
+                                  
+                            </div>
+            <!--  -->
+        </div>
+        </div>
+    <div class="wrap" id="wrap">
+        <div class="main clearfix">    
+        <div class="result" id="result">
+                        
+                                 <span id="correct_box"></span>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+				  
+$(document).ready(function(){
+	var url = "/iframe/correct.php?q=%B9%C9%CA%D0%CF%C2%B5%F8&range=all&c=news&sort=time&col=&source=&from=&country=&size=&time=&a=&dpc=1&tpl_c=";
+	$('#correct_box').load(url); 
+});
+
+//--><!]]>
+</script>
+                                                                                        <div class="l_v2">找到相关新闻59,609篇</div>
+                                    
+             
+                    <div class="mod_bar" >
+        
+                                
+                                
+                <!--
+                //2013-11-14号删除这个提示 by：hongliang4
+                                 -->
+                    <script type="text/javascript">
+                        (function ($) {
+                            //Cookies
+                            $.setCookie=function (opt) {
+                                var defaults={
+                                    name:'',
+                                    value:'',
+                                    expire:1
+                                }
+                                var options=$.extend(defaults,opt);
+                                var exdate=new Date();
+                                exdate.setDate(exdate.getDate()+options.expire);
+                                document.cookie=options.name+ "=" +escape(options.value)+((options.expire==null) ? "" : ";expires="+exdate.toGMTString());
+                            }
+
+                            $.getCookie=function (cName){
+                                if (document.cookie.length>0){
+                                    c_start=document.cookie.indexOf(cName + "=");
+                                    if (c_start!=-1){
+                                        c_start=c_start + cName.length+1;
+                                        c_end=document.cookie.indexOf(";",c_start);
+                                        if (c_end==-1) c_end=document.cookie.length;
+                                        return unescape(document.cookie.substring(c_start,c_end));
+                                    }
+                                }
+                                return '';
+                            }
+
+                            $('.tips_01 .close').click(function () {
+                                $('.tips_01').remove();
+                                //$.setCookie({name:'tips_01',value:'hide'});
+                            });
+                            var is_show_tips=$.getCookie('tips_01');
+                            if (is_show_tips=='hide') {
+                                $('.tips_01').remove();
+                            }
+                        })(jQuery);
+                    </script>
+            </div>
+
+    <!--移动直达区到提示信息下方 20120908 dalong3-->
+                        <div id="nav_result_container"></div>
+        
+                        
+                                        
+                			<!-- 文字新闻spider begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_0">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/money/forex/hbfx/2018-01-11/doc-ifyqqciz5447603.shtml" target="_blank">拜特朗普所赐，全球贸易风险已成2018年头号黑天鹅</a> <span class="fgray_time">汇通网 2018-01-11 16:00:14</span></h2>
+					<p class="content">他们越来越相信，美国将宣布退出北美自由贸易协定。<span style="color:#C03">股市下跌</span>，墨西哥比索和加元出现暴跌，交易商抛售了对贸易敏感的美股，比如汽车部门的股票。</p>
+					<!--
+<p class="fgray">频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;来源：汇通网</p>
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=黑天鹅">黑天鹅</a> <a style="text-decoration:none;" href="/?c=news&q=全球贸易">全球贸易</a> <a style="text-decoration:none;" href="/?c=news&q=自由贸易协定">自由贸易协定</a></p>-->
+								</div>
+			</div>
+			<!-- 文字新闻spider end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_1">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/roll/2018-01-11/doc-ifyqqciz5067764.shtml" target="_blank">纽约金价１０日上涨</a> <span class="fgray_time">新华网 2018-01-11 06:06:32</span></h2>
+					<p class="content">市场分析人士说，美元走低是当天黄金期价上涨的主要原因。此外，纽约<span style="color:#C03">股市下跌</span>也推动交易者将资金从<span style="color:#C03">股市</span>转移到黄金市场，对金价形成一定支撑。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：新华网					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=纽约">纽约</a> <a style="text-decoration:none;" href="/?c=news&q=上涨">上涨</a> <a style="text-decoration:none;" href="/?c=news&q=美元">美元</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_2">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/stock/usstock/c/2018-01-11/doc-ifyqnick4629611.shtml" target="_blank">欧股收跌 关注企业业绩和经济数据</a> <span class="fgray_time">FX168 2018-01-11 04:12:32</span></h2>
+					<p class="content">600指数收盘<span style="color:#C03">下跌</span>0.47%，多数板块进入消极区域。美国方面，由于投资者担心中国可能会停止购买美国主权债券，美国<span style="color:#C03">股市下跌</span>。道琼斯工业平均指数一度<span style="color:#C03">下跌</span>超过100点，而标准普尔500指数<span style="color:#C03">下跌</span> ...</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：FX168					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=欧股">欧股</a> <a style="text-decoration:none;" href="/?c=news&q=企业业绩">企业业绩</a> <a style="text-decoration:none;" href="/?c=news&q=经济数据">经济数据</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_3">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/stock/hkstock/ggscyd/2018-01-05/doc-ifyqiwuw6505823.shtml" target="_blank">派对还未完 股王待破位</a> <span class="fgray_time">财华社 2018-01-05 09:04:46</span></h2>
+					<p class="content">有意见认为当香港<span style="color:#C03">股市</span>泡沫爆破后半年，楼价便会<span style="color:#C03">下跌</span>。预测楼市的难度，比起<span style="color:#C03">股市</span>更高，同时当<span style="color:#C03">股市下跌</span>后半年，楼价是否一定<span style="color:#C03">下跌</span>？难说。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：财华社					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=股王">股王</a> <a style="text-decoration:none;" href="/?c=news&q=加息">加息</a> <a style="text-decoration:none;" href="/?c=news&q=破位">破位</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_4">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/roll/2018-01-05/doc-ifyqinzs8822697.shtml" target="_blank">H股全流通：不可或缺的改革</a> <span class="fgray_time">上海证券报 2018-01-05 06:33:42</span></h2>
+					<p class="content">但回头来看也存在不少问题。而最大的问题是，当时非流通股东支付对价后所获得的法定流通权，在此后<span style="color:#C03">股市下跌</span>过程中又受到各种行政制度的限制。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：上海证券报					</p>
+					<p class="fgray">
+											</p>					
+					-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_5">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/stock/usstock/c/2018-01-05/doc-ifyqincu2849775.shtml" target="_blank">收盘：美股三大股指均创新高 道指首次突破25000点</a> <span class="fgray_time">新浪美股 2018-01-05 05:12:58</span></h2>
+					<p class="content">全球<span style="color:#C03">股市</span>都处于上涨趋势。预测牛市结束已被证明是愚蠢的举动。投资者将每次<span style="color:#C03">股市下跌</span>都视为买进的好机会，在近期内，除非加快加息步伐，否则这种状况不会改变。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：新浪美股					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=美股">美股</a> <a style="text-decoration:none;" href="/?c=news&q=历史新高">历史新高</a> <a style="text-decoration:none;" href="/?c=news&q=道指">道指</a> <a style="text-decoration:none;" href="/?c=news&q=25000点">25000点</a> <a style="text-decoration:none;" href="/?c=news&q=就业数据">就业数据</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_6">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/stock/usstock/c/2018-01-04/doc-ifyqkarr7245524.shtml" target="_blank">开盘：美股周四高开 道指逼近25000点</a> <span class="fgray_time">新浪财经 2018-01-04 22:40:09</span></h2>
+					<p class="content">他表示：“预测牛市结束已被证明是愚蠢的举动。投资者将每次<span style="color:#C03">股市下跌</span>都视为买进的好机会，在近期内，除非加快加息步伐，否则这种状况不会改变。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：新浪财经					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=美股">美股</a> <a style="text-decoration:none;" href="/?c=news&q=股指">股指</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻spider begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_7">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/roll/2018-01-01/doc-ifyqchnr8134099.shtml" target="_blank">姜超谈2018年的希望在哪里：在于转型与创新、在于提高效率</a> <span class="fgray_time">21世纪经济报道 2018-01-01 17:35:01</span></h2>
+					<p class="content">观点 上周美欧日<span style="color:#C03">股市下跌</span>，韩印港等新兴市场<span style="color:#C03">股市</span>涨跌互现，黄金石油上涨，金属价格震荡，国内股涨债稳。</p>
+					<!--
+<p class="fgray">频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;来源：21世纪经济报道</p>
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=姜超">姜超</a> <a style="text-decoration:none;" href="/?c=news&q=工业品">工业品</a> <a style="text-decoration:none;" href="/?c=news&q=PPI">PPI</a></p>-->
+								</div>
+			</div>
+			<!-- 文字新闻spider end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_8">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/stock/stockptd/2018-01-01/doc-ifyqefvw8790270.shtml" target="_blank">招商宏观：春节前后流动性展望 资金面将易紧难松</a> <span class="fgray_time">新浪综合 2018-01-01 17:06:17</span></h2>
+					<p class="content">距春节两周左右投放力度增强，而高峰则一般发生在距春节一周左右。除16年受<span style="color:#C03">股市下跌</span>影响净投放高峰提前外，12年后各年净投放高峰都在距春节10日内。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：新浪综合					</p>
+					<p class="fgray">
+											</p>					
+					-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_9">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/stock/zldx/2017-12-27/doc-ifyqchnr6074047.shtml" target="_blank">万亿存款“消失”谜题：楼市限贷+<span style="color:#C03">股市</span>撬动+理财化</a> <span class="fgray_time">21世纪经济报道 2017-12-27 06:27:17</span></h2>
+					<p class="content">中国<span style="color:#C03">股市</span>波动与居民储蓄增长呈现出明显的“跷跷板”现象。若<span style="color:#C03">股市</span>上涨，则居民储蓄增速下降，若<span style="color:#C03">股市下跌</span>，居民储蓄回流。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：21世纪经济报道					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=存款">存款</a> <a style="text-decoration:none;" href="/?c=news&q=理财">理财</a> <a style="text-decoration:none;" href="/?c=news&q=储蓄存款">储蓄存款</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻spider begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_10">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/money/forex/forexinfo/2017-12-22/doc-ifypxmsq9404559.shtml" target="_blank">【图解】反转信号？游资自12月以来开始做空美股</a> <span class="fgray_time">环球外汇网 2017-12-22 16:15:07</span></h2>
+					<p class="content">环球外汇12月22日讯--几个月来，所谓的“游资”一直在进入不断上涨美国<span style="color:#C03">股市</span>，而每次<span style="color:#C03">股市下跌</span>都在买入，无论前景多么灰暗。但12月以来，这种情况开始反转了。</p>
+					<!--
+<p class="fgray">频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;来源：环球外汇网</p>
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=游资">游资</a> <a style="text-decoration:none;" href="/?c=news&q=做空">做空</a> <a style="text-decoration:none;" href="/?c=news&q=美股">美股</a></p>-->
+								</div>
+			</div>
+			<!-- 文字新闻spider end -->                        
+                                        
+                			<!-- 文字新闻spider begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_11">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/money/bond/market/2017-12-22/doc-ifypxmsq9179599.shtml" target="_blank">转债为何跑不赢正股</a> <span class="fgray_time">中国证券报-中证网 2017-12-22 06:56:39</span></h2>
+					<p class="content">华创证券研报指出，转债供给压力仍然存在，短期受<span style="color:#C03">股市下跌</span>影响，新券上市也是频频破发，市场情绪较差，但无论从绝对价格、债底支撑还是估值来看，目前市场都处于相对底部，中长期 ...</p>
+					<!--
+<p class="fgray">频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;来源：中国证券报-中证网</p>
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=转债">转债</a> <a style="text-decoration:none;" href="/?c=news&q=正股">正股</a> <a style="text-decoration:none;" href="/?c=news&q=上证综指">上证综指</a></p>-->
+								</div>
+			</div>
+			<!-- 文字新闻spider end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_12">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/roll/2017-12-22/doc-ifypxmsq9163014.shtml" target="_blank">打新进一步降温的可转债下半场：散户弃购 券商包销</a> <span class="fgray_time">21世纪经济报道 2017-12-22 05:37:03</span></h2>
+					<p class="content">华创证券债券团队16日表示，供给压力仍然存在，短期受<span style="color:#C03">股市下跌</span>影响，新券上市也是频频破发，市场情绪较差，但无论从绝对价格，债底支撑还是估值来看，目前市场都处于一个相对底部 ...</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：21世纪经济报道					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=可转债">可转债</a> <a style="text-decoration:none;" href="/?c=news&q=券商">券商</a> <a style="text-decoration:none;" href="/?c=news&q=转债">转债</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_13">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/stock/stocktalk/2017-12-21/doc-ifypwzxq5114752.shtml" target="_blank">可转债跑输正股的原因揭秘 可转债还能买吗</a> <span class="fgray_time">中国证券报 2017-12-21 22:06:38</span></h2>
+					<p class="content">可转债供给压力仍然存在，短期受<span style="color:#C03">股市下跌</span>影响，新券上市也是频频破发，市场情绪较差，但无论从绝对价格、债底支撑还是估值来看，目前市场都处于相对底部，中长期配置价值在显现 ...</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：中国证券报					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=可转债">可转债</a> <a style="text-decoration:none;" href="/?c=news&q=正股">正股</a> <a style="text-decoration:none;" href="/?c=news&q=转债">转债</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_14">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/roll/2017-12-21/doc-ifypxmsq8706220.shtml" target="_blank">货币基金连增10个月至6.8万亿 占基金总规模近60％</a> <span class="fgray_time">证券时报 2017-12-21 02:31:47</span></h2>
+					<p class="content">规模缩水4.24%。业内人士认为，近期权益类资产规模的下降，与11月以来<span style="color:#C03">股市</span>调整有密切关系，<span style="color:#C03">股市下跌</span>带动权益类资产净值缩水；同时，在市场调整预期下，可能也会带来投资者的赎回 ...</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：证券时报					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=货币基金">货币基金</a> <a style="text-decoration:none;" href="/?c=news&q=基金">基金</a> <a style="text-decoration:none;" href="/?c=news&q=规模">规模</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_15">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/stock/2017-12-20/doc-ifyptkyk5455856.shtml" target="_blank">新浪财经早报：12月20日重磅消息汇总</a> <span class="fgray_time">新浪财经 2017-12-20 08:05:22</span></h2>
+					<p class="content">大盘参考 本轮<span style="color:#C03">股市下跌</span>始于11月中旬，当时沪指冲击3450点失败，向下调整到3337点后展开反弹，却在距离3450点尚有一定距离时走势逆转，拉出大阴线。到12月上旬时，探低至3250点一线。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：新浪财经					</p>
+					<p class="fgray">
+						<span class="zts">所属专题：<a href="http://finance.sina.com.cn/focus/xlcjzwb2014/index.shtml" target="_blank" class="fblue">新浪财经早晚报</a> </span>					</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=早报">早报</a> <a style="text-decoration:none;" href="/?c=news&q=财经早报">财经早报</a> <a style="text-decoration:none;" href="/?c=news&q=新浪财经早报">新浪财经早报</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_16">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/money/lczx/2017-12-20/doc-ifyptfcn2544930.shtml" target="_blank">税改与比特币飙涨双重施压 黄金重夺避险投资王座</a> <span class="fgray_time">21世纪经济报道 2017-12-20 07:12:25</span></h2>
+					<p class="content">黄金应留在现有投资组合里，而不是等到美股回调时再买入。纵观历史，若投资者等待<span style="color:#C03">股市</span>回调后再考虑投资黄金对冲<span style="color:#C03">股市下跌</span>系统性风险，可能已经错失机会。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：21世纪经济报道					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=比特币">比特币</a> <a style="text-decoration:none;" href="/?c=news&q=税改">税改</a> <a style="text-decoration:none;" href="/?c=news&q=避险资产">避险资产</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_17">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/roll/2017-12-20/doc-ifyptfcn2532576.shtml" target="_blank">申万宏源:A股整体走势平稳 后市仍需整理待趋势明朗</a> <span class="fgray_time">上海证券报 2017-12-20 06:36:31</span></h2>
+					<p class="content">个股也是涨多跌少，显示出企稳的特征。本轮<span style="color:#C03">股市下跌</span>始于11月中旬，当时沪指冲击3450点失败，向下调整到3337点后展开反弹，却在距离3450点尚有一定距离时走势逆转，拉出大阴线。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：上海证券报					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=沪指">沪指</a> <a style="text-decoration:none;" href="/?c=news&q=股指">股指</a> <a style="text-decoration:none;" href="/?c=news&q=区块链">区块链</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_18">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/money/bond/research/2017-12-20/doc-ifyptfcn2512598.shtml" target="_blank">众议院今日投票通过税改方案 美债波动异常剧烈</a> <span class="fgray_time">FX168 2017-12-20 05:01:08</span></h2>
+					<p class="content">它们都朝着同一个方向运动。这是受税收计划影响，”他说。债券策略师们指出，债券市场上的一些“卖消息”也可能是<span style="color:#C03">股市下跌</span>的原因。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：FX168					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=税改">税改</a> <a style="text-decoration:none;" href="/?c=news&q=债券市场">债券市场</a> <a style="text-decoration:none;" href="/?c=news&q=收益率">收益率</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->                        
+                                        
+                			<!-- 文字新闻 begin -->
+			<div class="box-result clearfix" data-sudaclick="blk_result_19">
+				<div class="r-info r-info2">
+					<h2><a href="http://finance.sina.com.cn/money/nmetal/hjzx/2017-12-18/doc-ifyptfcn1601136.shtml" target="_blank">关键周！超级核弹将引爆 这或许年底前最重磅事件</a> <span class="fgray_time">FX168 2017-12-18 08:56:31</span></h2>
+					<p class="content">的董事总经理兼投资组合经理Ed Keon说：“我认为该法案很可能会通过，但如果不这样，我们可能会看到<span style="color:#C03">股市下跌</span>5%到10%。</p>
+					<!--
+<p class="fgray">
+											频道：<a href="http://finance.sina.com.cn/" target="_blank" class="fblue">财经</a>&nbsp;&nbsp;
+											来源：FX168					</p>
+					<p class="fgray">
+											</p>					
+					<p><span class="fgray">标签：</span><a style="text-decoration:none;" href="/?c=news&q=税改">税改</a> <a style="text-decoration:none;" href="/?c=news&q=美联储">美联储</a> <a style="text-decoration:none;" href="/?c=news&q=共和党">共和党</a></p>-->
+								</div>
+				
+			</div>
+			<!-- 文字新闻 end -->        
+                           <!--                                   -->
+            <!-- 分页 begin -->
+            <table cellspacing="0" style="margin:0 auto;"><tr><td>
+                <div class="pagebox" id="_function_code_page">
+                    <a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=1&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page1');" title="第一页">第一页</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=4&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page4');" title="上一页">上一页</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=1&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page1');" title="第1页">1</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=2&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page2');" title="第2页">2</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=3&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page3');" title="第3页">3</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=4&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page4');" title="第4页">4</a><b><span class="pagebox_cur_page">5</span></b><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=6&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page6');" title="第6页">6</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=7&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page7');" title="第7页">7</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=8&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page8');" title="第8页">8</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=9&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page9');" title="第9页">9</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=10&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page10');" title="第10页">10</a><a href="/?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&amp;range=all&amp;c=news&amp;sort=time&amp;ie=utf-8&amp;col=&amp;source=&amp;from=&amp;country=&amp;size=&amp;time=&amp;a=&amp;page=6&amp;pf=2136668311&amp;ps=2132736168&amp;dpc=1" onclick="_S_uaTrack('SearchFlip', 'Page6');" title="下一页">下一页<!--  --></a>
+                </div>
+            </td></tr></table>
+            <!-- 分页 end -->
+                                    <!-- 在结果中搜索 begin -->
+<div class="search-form search-form-bot">
+	<!-- 2010/11/11 -->
+		<!-- 2010/11/3 begin -->
+	<form method="get" action="/" onsubmit="return submit_form(this)">
+				<input type="text" name="q" maxlength="100" value="股市下跌 " class="ipt-00" />
+		<input type="submit" value="" class="ipt-03 ipt-03b ipt-03_news" hidefocus="true" suda-uatrack="key=SearchBody&value=searchbelow" />
+						<input type="hidden" value="all" name="range">
+					<input type="hidden" value="news" name="c">
+					<input type="hidden" value="time" name="sort">
+					<input type="hidden" value="utf-8" name="ie">
+					<input type="hidden" value="" name="col">
+					<input type="hidden" value="" name="source">
+					<input type="hidden" value="" name="from">
+					<input type="hidden" value="" name="country">
+					<input type="hidden" value="" name="size">
+					<input type="hidden" value="" name="time">
+					<input type="hidden" value="" name="a">
+							<input type="hidden" value="2131425470" name="pf">
+					<input type="hidden" value="2134309112" name="ps">
+					<input type="hidden" value="1" name="dpc">
+			</form>
+	<!-- 2010/11/3 end -->
+</div>
+<!-- 在结果中搜索 end -->            </div>
+<script type="text/javascript">
+$(function(){$("div.box-result").mouseover(function(){$(this).find('div.wbShareBtn').show();}).mouseout(function(){$(this).find('div.wbShareBtn').hide();});});
+</script>
+        <div class="sRight">
+        <!--0422-->
+                <div class='blk_right'>
+                <!--订阅词start-->
+                    <div class='blk_myRss'>
+                        <div class='br_title clearfix'><h4>我的订阅词</h4><a href="javascript:;" class='rss_rssCur'>订阅当前词</a></div>
+                        <ul class='ul_right' id='rss01'></ul>
+                    </div>
+                <!--订阅词end-->
+                <!--最近搜过start-->
+                <div class='blk_myHis'>
+                    <div class='br_title clearfix'><h4>最近搜过</h4><a class='his_fold' href="javascript:;">展开收起</a><a href="javascript:;" class='his_clear'>全部清除</a></div>
+                    <ul class='ul_right' id='his01'></ul>
+                </div>
+                <!--最近搜过end-->
+                <!--大家都在搜 start-->
+                <div class='blk_hotSearch'>
+                    <div class='br_title clearfix'><h4>大家都在搜</h4></div>
+                    <ul class='ul_hotSearch ul_right' id='hotSearch01'>
+
+                                                <li><span class='top3'>1</span><a href="?q=春晚主持人公布&c=news">春晚主持人公布</a></li>
+                                                <li><span class='top3'>2</span><a href="?q=为躲避打针 大哭表白护士&c=news">为躲避打针 大哭表白护士</a></li>
+                                                <li><span class='top3'>3</span><a href="?q=福原爱 纪念婚礼一周年&c=news">福原爱 纪念婚礼一周年</a></li>
+                                                <li><span >4</span><a href="?q=老爸工作忙没搭理女儿&c=news">老爸工作忙没搭理女儿</a></li>
+                                                <li><span >5</span><a href="?q=金像奖入围名单&c=news">金像奖入围名单</a></li>
+                                                <li><span >6</span><a href="?q=马航MH370 再现谜团&c=news">马航MH370 再现谜团</a></li>
+                                                <li><span >7</span><a href="?q=张继科景甜&c=news">张继科景甜</a></li>
+                                            </ul>
+                </div>
+                <!--大家都在搜 end-->
+                <!-- 各地新闻 begin -->
+                <div id="area_news" class="blk_area_news clearfix">
+                    <div class="br_title clearfix"><h4>各地新闻</h4></div>
+                    <ul id="ul_area_news" class="ul_area_news"></ul>
+                    <a class="area_news_more" href="url" target="_blank">更多新闻<span>&hellip;</span></a>
+                </div>
+                <style type="text/css">
+                .blk_area_news{display:none;padding:10px 0;}
+                .ul_area_news{margin:12px 0 0 11px;}
+                .ul_area_news li{margin-bottom:8px;}
+                .ul_area_news li p{line-height:20px;font-size:13px;}
+                .area_info{color:#7c7c7c;font-size:12px;}
+                .news_area{float:left;}
+                .news_time{float:right;}
+                .area_news_more{float:right;height:23px;line-height:23px;padding:0 10px;font-size:13px;color:#000;}
+                .area_news_more span{margin-left:3px;font-weight:bold;}
+                .area_news_more:link,.area_news_more:visited{text-decoration:none;}
+                .area_news_more:hover{background:#e9eff5;text-decoration:none;}
+                .area_news_more:hover span{color:#7c7c7c;}
+                </style>
+                <!-- 各地新闻 end -->
+                </div>
+                <script type="text/javascript">
+                jQuery(document).ready(function(){
+                    //地方站搜索 begin
+                    setAreaNews();
+                    toDfzResult();
+                    //地方站搜索 end
+                    bindLiOver('hotSearch01');
+                })
+                //地方站搜索 begin
+                function setAreaNews(){
+                    var sw = document.getElementById('keyword').value,
+                        rg = GetQueryString('range'),
+                        $areaNews = jQuery('#area_news'),
+                        $areaNewsUl = jQuery('#ul_area_news');
+                    jQuery.ajax({
+                        url:'http://api.search.sina.com.cn/?q='+encodeURIComponent(sw)+'&range='+rg+'&c=news&sort=time&ie=utf-8&from=dfz_api',
+                        async:false,
+                        type:'GET',
+                        data:null,
+                        dataType:'jsonp',
+                        success:function(data){
+                            var dataList = data.result.list,
+                                dataListLen = dataList.length;
+                            var len = dataListLen<=6?dataListLen:6;
+                            if(!len){
+                                $areaNews.hide();
+                                return; 
+                            }
+                            $areaNews.show();
+                            for(var i=0;i<len;i++){
+                                var li='<li><p><a href="'+unescape(dataList[i].url)+'" target="_blank">'+unescape(dataList[i].title)+'</a></p><div class="area_info clearfix"><span class="news_area">'+unescape(dataList[i].media?dataList[i].media:(dataList[i].column_infos.name?dataList[i].column_infos.name:''))+'</span><span class="news_time">'+dataList[i].datetime+'</span></div></li>';
+                                $areaNewsUl.append(li);
+                            }
+                        },
+                        error:function(){
+
+                        }
+                    })                    
+                }
+                function toDfzResult(){
+                    var reg = new RegExp("(^|&)from=","i"),
+                        base = window.location.href.split('?')[0],
+                        urlsearch=window.location.search;
+                    var href = base + (reg.test(urlsearch)?urlsearch.replace('from='+GetQueryString('from'),'from=dfz_api'):urlsearch+'&from=dfz_api');
+                    jQuery(".area_news_more").attr('href',href);
+                    return false;
+                }
+                //地方站搜索 end
+                var bindLiOver = function(ulId){
+                    jQuery('#'+ulId+' li').mouseenter(function(){
+                        jQuery('#'+ulId+' li').removeClass('cur')
+                        jQuery(this).addClass('cur');
+                    });
+                    jQuery('#'+ulId+' li').mouseleave(function(){
+                        jQuery('#'+ulId+' li').removeClass('cur')
+                    });
+                }
+                function GetQueryString(name){
+                     var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+                     var r = window.location.search.substr(1).match(reg);
+                     if(r!=null) { return  r[2]; } 
+                     return null;
+                }
+                function toRssUrl(kw){//点击跳转
+                    var curKey = GetQueryString('q');
+                    var loc  = location.href.replace(curKey,encodeURIComponent(kw));
+                    if(loc.indexOf("ie=utf-8") == -1)
+                    {
+                        loc += "&ie=utf-8";
+                    }
+                    location.href = loc;
+                }
+                var rssZ = function(){};
+                rssZ.prototype = {
+                    ulId:'',
+                    init:function(id){
+                        this.ulId = id;
+                        this.getRss();
+                    },
+                    creatDom:function(data){//创建dom
+                        var domStr='';
+                        var domArr = [];
+                        for(var i=0;i<data.length;i++){
+                            var itemId = data[i].id;
+                            var itemkey = data[i].skey;
+                            var itemStr = '<li><a href="javascript:;" class="liItem rssItem" data-qstr="'+itemkey+'">'+itemkey+'</a><a data-rssid="'+itemId+'" class="delItem rss_removeRss" href="javascript:;">取消订阅</a></li>';
+                            domArr.push(itemStr);
+                        }
+                        domStr = domArr.join('');
+                        return domStr;
+
+                    },
+                    
+                    getRss:function(){//获取订阅词
+                        var _self = this;
+                        jQuery.ajax({
+                            url:'http://search.sina.com.cn/api/apiindex.php?s=subscribe&a=getkeys&stype=1&format=json',
+                            async:false,
+                            type:'GET',
+                            data:null,
+                            dataType:'jsonp',
+                            success:function(data){
+                                var res = data.result;
+                                if(res.status.code==0){
+                                    jQuery('#'+_self.ulId).html(_self.creatDom(res.data));
+                                    _self.bindLi();
+                                }else{
+                                    //alert(res.status.msg)
+                                }
+                            },
+                            error:function(){
+                                
+                            }
+                        })
+                        
+                    },
+                    addRss:function(kw){//添加订阅词
+                        var _self = this;
+                        jQuery.ajax({
+                            url:'http://search.sina.com.cn/api/apiindex.php?s=subscribe&a=addkey&stype=1&skey='+kw+'&format=json',
+                            async:false,
+                            type:'GET',
+                            data:null,
+                            dataType:'jsonp',
+                            success:function(data){
+                                var res = data.result;
+                                if(res.status.code==0){
+                                    _self.getRss();
+                                }else{
+                                    alert(res.status.msg)
+                                }
+                            },
+                            error:function(){
+                                
+                            }
+                        })
+                    },
+                    delRss:function(id){//删除订阅词
+                        var _self = this;
+                        jQuery.ajax({
+                            url:'http://search.sina.com.cn/api/apiindex.php?s=subscribe&a=delkey&stype=1&id='+id+'&format=json',
+                            async:false,
+                            type:'GET',
+                            data:null,
+                            dataType:'jsonp',
+                            success:function(data){
+                                var res = data.result;
+                                if(res.status.code==0){
+                                }else{
+                                    alert(res.status.msg)
+                                }
+                            },
+                            error:function(){
+                                
+                            }
+                        })
+                    },
+                    bindLi:function(){//li绑定事件
+                        var _self = this;
+                        bindLiOver(_self.ulId);
+                        jQuery('#'+_self.ulId+' .rss_removeRss').unbind("click").click(function(){
+                            var itemId = jQuery(this).attr('data-rssid');
+                            _self.delRss(itemId);
+                            jQuery(this).parent().remove();
+                        });
+                        jQuery('#'+_self.ulId+' .liItem').unbind("click").click(function(){
+                            toRssUrl(jQuery(this).attr('data-qstr'));
+                        });
+                        jQuery('.rss_rssCur').unbind("click").click(function(){
+                            var keyword = GetQueryString('q');
+                            if(keyword!=null&&keyword!='')
+                            _self.addRss(keyword);
+                        });
+
+                    }
+                };
+                
+                var cookie = (function(){
+                    /**
+                     * 读取cookie,注意cookie名字中不得带奇怪的字符，在正则表达式的所有元字符中，目前 .[]$ 是安全的。
+                     * @param {Object} cookie的名字
+                     * @return {String} cookie的值
+                     * @example
+                     * var value = co.getCookie(name);
+                     */
+                    var co={};
+                    co.getCookie = function (name) {
+                        var start = document.cookie.indexOf(name + "=");
+                        var len = start + name.length + 1;
+                        if ((!start) && (name != document.cookie.substring(0, name.length))) {
+                            return null;
+                        }
+                        if (start == -1) return null;
+                        var end = document.cookie.indexOf(';', len);
+                        if (end == -1) end = document.cookie.length;
+                        return unescape(document.cookie.substring(len, end));
+
+                    };
+
+                    /**
+                     * 设置cookie
+                     * @param {String} name cookie名
+                     * @param {String} value cookie值
+                     * @param {Number} expire Cookie有效期，单位：小时
+                     * @param {String} path 路径
+                     * @param {String} domain 域
+                     * @param {Boolean} secure 安全cookie
+                     * @example
+                     * co.setCookie('name','sina',null,"")
+                     */
+                    co.setCookie = function (name, value, expires, path, domain, secure) {
+                        var today = new Date();
+                        today.setTime(today.getTime());
+                        if (expires) {
+                            expires = expires * 1000 * 60 * 60 * 24;
+                        }
+                        var expires_date = new Date(today.getTime() + (expires));
+                        document.cookie = name + '=' + escape(value) +
+                            ((expires) ? ';expires=' + expires_date.toGMTString() : '') +((path) ? ';path=' + path : '') +((domain) ? ';domain=' + domain : '') +((secure) ? ';secure' : '');
+                    };
+
+                    /**
+                     * 删除cookie
+                     * @param {String} name cookie名
+                     */
+                    co.deleteCookie = function(name, path, domain) {
+                        if (co.getCookie(name)) document.cookie = name + '=' +((path) ? ';path=' + path : '') +((domain) ? ';domain=' + domain : '') +
+                        ';expires=Thu, 01-Jan-1970 00:00:01 GMT';
+                    };
+                    return co;
+                })();
+                var splitStr = '|sEaRchHIS|';
+                //搜索历史
+                (function(){
+                    //初始化
+                    var creatDom = function(data){//创建dom
+                        var domStr='';
+                        var domArr = [];
+                        for(var i=0;i<data.length;i++){
+                            if(data[i]=='')return;
+                            var itemStr = '<li><a href="javascript:;" class="liItem rssItem" data-qstr="'+data[i]+'">'+data[i]+'</a><a class="delItem his_removeHis" href="javascript:;">删除</a></li>';
+                            domArr.push(itemStr);
+                        }
+                        domStr = domArr.join('');
+                        return domStr;
+
+                    };
+                    if(getSearch()[1].length>0){
+                        jQuery('#his01').html(creatDom(getSearch()[1]));
+                        bindLiOver('his01');
+                        jQuery('#his01 .his_removeHis').click(function(){
+                            var kw = jQuery(this).prev().html();
+                            removeSearch(kw);
+                            jQuery(this).parent().remove();
+                        });
+                        jQuery('#his01 .liItem').click(function(){
+                            toRssUrl(jQuery(this).attr('data-qstr'));
+                        });
+                        jQuery('.his_clear').click(function(){
+                            jQuery('#his01').html('');
+                            cookie.deleteCookie('mYSeArcH','/', 'search.sina.com.cn');
+                        });
+                        jQuery('.his_fold').click(function(){
+                            jQuery('.his_fold').toggleClass('his_unfold');
+                            jQuery('#his01').toggle();
+                        })
+
+                    }
+                })();
+                function stripscript(s) { 
+                    var pattern = new RegExp("[%--`~!@#$^&*()=|{}':;',\\[\\].<>/?~！@#……&*（）|{}‘；：”“'。，、？]")        //格式 RegExp("[在中间定义特殊过滤字符]")
+                    var rs = ""; 
+                    for (var i = 0; i < s.length; i++) { 
+                     rs = rs+s.substr(i, 1).replace(pattern, ''); 
+                    }
+                    return rs;
+                }
+                function getSearch(){
+                    var n = 15;
+                    var hisStr='',hisArr=[],hisArrRes=[];
+                    hisStr = cookie.getCookie('mYSeArcH');
+                    if(hisStr!=null){
+                        hisArr = hisStr.split(splitStr);
+                        if(hisArr.length>n){
+                            for(var i=0;i<n;i++){
+                                hisArrRes.push(hisArr[hisArr.length-1-i]);
+                            }
+                        }else{
+                            for(var i=hisArr.length-1;i>-1;i--){
+                                hisArrRes.push(hisArr[i]);
+                            }
+                        }
+                    }else{
+                        hisStr='';
+                    }
+                    return [hisStr,hisArrRes];
+                }
+                var addSearch = function(kw){
+                    kw=stripscript(kw);
+                    var checkArry = function(a,arrayA){
+                        var res = true;
+                        for(var i =0;i<arrayA.length;i++){
+                            if(a==arrayA[i]){
+                                res = false;
+                            }
+                        }
+                        return res;
+                    }
+                    if(checkArry(kw,getSearch()[1])){
+                        var tempStr = getSearch()[0]==''?kw:getSearch()[0]+splitStr+kw;
+                        cookie.setCookie('mYSeArcH', tempStr, 43800, '/', 'search.sina.com.cn');
+                    }   
+                }
+                function removeSearch(kw){
+                    var searchStr = getSearch()[0];
+                    if(searchStr!=''&&searchStr.indexOf(splitStr)==-1&&searchStr.indexOf(kw)!=-1){
+                        searchStr = searchStr.replace(kw,'');
+                    }
+                    if(searchStr.indexOf(kw+splitStr)!=-1){
+                        searchStr=searchStr.replace(kw+splitStr,'');        
+                    }
+                    cookie.setCookie('mYSeArcH', searchStr, 43800, '/', 'search.sina.com.cn');      
+                }
+                </script>
+
+
+
+
+
+            </div>
+            <!--0422-->
+        </div> 
+</div> 
+<!--反馈入口 start-->
+<style type="text/css">
+.scrollDiv{bottom:185px;right:0;width: 14px;font-size: 14px;background: #e4e4e4;border-radius: 5px 0 0 5px;padding: 12px 7px;}
+.scrollDiv a{font-size: 14px;color: #5d5d5d;font-family: "Microsoft Yahei","微软雅黑","SimSun","宋体","Arial Narrow",serif;}
+.scrollDiv a:visited{color: #5d5d5d;text-decoration: none;}
+.scrollDiv a:hover{color: #ff8400;text-decoration: none;}
+</style>
+<div id="scrollDiv" class='scrollDiv'>
+<a href="http://comment5.news.sina.com.cn/comment/skin/feedback.html?channel=ly&newsid=231" target='_blank'>我要反馈</a>
+</div>
+<script type="text/javascript">
+~function(){var a="scrollDiv";var d=document.getElementById(a);function c(g,e,f){if(g.attachEvent){g.attachEvent("on"+e,f);}else{g.addEventListener(e,f,false);}}function b(){var g=navigator.appVersion.indexOf("MSIE 6")!=-1?true:false;var e=0,f=0;if(g){d.style.position="absolute";}else{d.style.position="fixed";}}c(window,"scroll",b);c(window,"resize",b);b();}();
+</script>
+<!--反馈入口 end-->
+<!-- 返回顶部 begin -->
+<style type="text/css">
+.side-btns-wrap{width:25px;right: 0;position: fixed;bottom: 150px; _position:absolute;_top:expression(documentElement.scrollTop + documentElement.clientHeight-120);z-index:100;visibility: hidden;overflow: hidden;}
+.side-btns-top{width:25px;}
+.side-btns-top a{display: block; line-height:500px; cursor:pointer;}
+.side-btns-top-btn { height: 25px; width: 25px;background:url(http://search.sina.com.cn/images/roll.png) no-repeat 0 0px;overflow:hidden;}
+.side-btns-top-btn:hover {filter:Alpha(Opacity=80); opacity:.8;}
+.side-btns-top-close{width: 50px;height: 18px;margin-top:1px;background: url(http://i3.sinaim
