@@ -1,0 +1,17 @@
+- [http://tushare.org/trading.html#id2](http://tushare.org/trading.html#id2)
+- date
+	- 日期和时间
+	- 低频数据时为：YYYY-MM-DD
+	- 高频数为：YYYY-MM-DD HH:MM
+- open
+	- 开盘价
+- close
+	- 收盘价
+- high
+	- 最高价
+- low
+	- 最低价
+- volume
+	- 成交量
+- code
+	- 证券代码
