@@ -1,5 +1,6 @@
 #According to keyword ......
 import requests
+import re
 import urllib
 import urllib2
 from bs4 import BeautifulSoup
@@ -50,16 +51,24 @@ with open(link_path,'r') as f:
 			response = urllib2.urlopen(request)
 			read_response = response.read()
 			soup = BeautifulSoup(read_response,"html.parser")
-			find_text = soup.find_all('p')
-			for t in find_text:
-				content = t.string.strip()
-				print(content)
-			
+			find_text = soup.find('article',attrs={'class':'article'})
+			content = find_text.find_all('p')
+			string = ''
 
-#				with open(text_path,'w') as w:
-#					w.write(content)
+			for t in content:
+
+				print(t.text)
+
+
 				
+				
+			#	print(t.text)
 
+
+			#with open(text_path,'w'):
+
+   			#	file.write(string + '\n')
+  					
 		
 
 		except Exception as e:
