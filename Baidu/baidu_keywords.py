@@ -53,7 +53,7 @@ with open(link_path,'r') as f:
 				response = urllib2.urlopen(request)
 				read_response = response.read()
 				soup = BeautifulSoup(read_response,"html.parser")
-				print(link)
+				#print(link)
 				try:
 					find_text = soup.find('article',attrs={'class':'article'})
 					content = find_text.find_all('p')
@@ -63,7 +63,7 @@ with open(link_path,'r') as f:
 						string = string + cont.encode('utf-8') + '\n'
 				except Exception as e:
 					pass
-				print('done')
+				#print('done')
 		except Exception as e:
 				pass
 
