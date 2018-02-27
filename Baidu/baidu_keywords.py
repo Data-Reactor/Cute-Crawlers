@@ -1,13 +1,10 @@
-#According to keyword ......
+# -*- coding:utf-8 -*-
 import requests
 import re
 import urllib
 import urllib2
 from bs4 import BeautifulSoup
-
-
-
-
+import codecs
 # headers
 User_agent = 'Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/54.0'
 headers = {'User-agent':User_agent}
@@ -45,34 +42,39 @@ with open(keywords_path,'r') as f:
 			pass
 
 with open(link_path,'r') as f:
-	for link in f:
+
+
+		string = 'article' + '\n'
 		try:
-			request = urllib2.Request(link,headers=headers)
-			response = urllib2.urlopen(request)
-			read_response = response.read()
-			soup = BeautifulSoup(read_response,"html.parser")
-			find_text = soup.find('article',attrs={'class':'article'})
-			content = find_text.find_all('p')
-			string = ''
-
-			for t in content:
-
-				print(t.text)
-
-
+		
+			for link in f:
 				
+				request = urllib2.Request(link,headers=headers)
+				response = urllib2.urlopen(request)
+				read_response = response.read()
+				soup = BeautifulSoup(read_response,"html.parser")
+				print(link)
+				try:
+					find_text = soup.find('article',attrs={'class':'article'})
+					content = find_text.find_all('p')
 				
-			#	print(t.text)
+					for t in content:
+						cont = t.text
+						string = string + cont.encode('utf-8') + '\n'
+				except Exception as e:
+					pass
+				print('done')
+		except Exception as e:
+				pass
 
+  		with codecs.open(text_path, 'wb') as file:
+  			file.write(string)
+  			file.close()
 
-			#with open(text_path,'w'):
-
-   			#	file.write(string + '\n')
-  					
+  			
 		
 
-		except Exception as e:
-			pass
+	
 
 
 	
